@@ -1,0 +1,4 @@
+Flask==2.1.1
+panel==0.12.1
+# Add other dependencies as needed
+

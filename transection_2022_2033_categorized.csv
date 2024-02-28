@@ -1,0 +1,1186 @@
+Date,Expenses,Category,Amount,Municipality,Province,Region,ID,Transaction vs category,Transaction,GL code
+1/15/2020,Transportation,Survival,41.0,Quezon City,Metro Manila,National Capital Region,E2020-1,2. Transportation - 66501,Transportation,66501
+1/15/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-2,2. Transportation - 66501,Transportation,66501
+1/16/2020,Food/Drinks,Optional,35.0,Quezon City,Metro Manila,National Capital Region,E2020-3,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+1/16/2020,Eating/Going Out,Optional,139.0,Quezon City,Metro Manila,National Capital Region,E2020-4,3. Eating/Going Out - 66503,Eating/Going Out,66503
+1/16/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-5,2. Transportation - 66501,Transportation,66501
+1/16/2020,Grocery,Survival,1174.93,Quezon City,Metro Manila,National Capital Region,E2020-6,4. Grocery - 694835,Grocery,694835
+1/18/2020,Home,Obligation,300.0,Quezon City,Metro Manila,National Capital Region,E2020-7,5. Home - 694835,Home,694835
+1/18/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-8,2. Transportation - 66501,Transportation,66501
+1/19/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-9,2. Transportation - 66501,Transportation,66501
+1/19/2020,Grocery,Survival,133.55,Quezon City,Metro Manila,National Capital Region,E2020-10,4. Grocery - 694835,Grocery,694835
+1/19/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-11,2. Transportation - 66501,Transportation,66501
+1/20/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-12,2. Transportation - 66501,Transportation,66501
+1/20/2020,Grocery,Survival,77.17,Quezon City,Metro Manila,National Capital Region,E2020-13,4. Grocery - 694835,Grocery,694835
+1/20/2020,Electricity/Water,Obligation,551.0,Quezon City,Metro Manila,National Capital Region,E2020-14,6. Electricity/Water - 65009,Electricity/Water,65009
+1/20/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-15,2. Transportation - 66501,Transportation,66501
+1/21/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-16,2. Transportation - 66501,Transportation,66501
+1/21/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-17,2. Transportation - 66501,Transportation,66501
+1/22/2020,Phone/Internet,Optional,50.0,Quezon City,Metro Manila,National Capital Region,E2020-18,7. Phone/Internet - 65009,Phone/Internet,65009
+1/22/2020,Eating/Going Out,Optional,96.0,Quezon City,Metro Manila,National Capital Region,E2020-19,3. Eating/Going Out - 66503,Eating/Going Out,66503
+1/22/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-20,2. Transportation - 66501,Transportation,66501
+1/22/2020,Transportation,Survival,46.0,Quezon City,Metro Manila,National Capital Region,E2020-21,2. Transportation - 66501,Transportation,66501
+1/23/2020,Food/Drinks,Optional,35.0,Quezon City,Metro Manila,National Capital Region,E2020-22,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+1/23/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-23,2. Transportation - 66501,Transportation,66501
+1/23/2020,Grocery,Survival,174.75,Quezon City,Metro Manila,National Capital Region,E2020-24,4. Grocery - 694835,Grocery,694835
+1/24/2020,Clothing/Shoes/Personal Items,Optional,802.0,Quezon City,Metro Manila,National Capital Region,E2020-25,8. Clothing/Shoes/Personal Items - 60000-010,Clothing/Shoes/Personal Items,60000-010
+1/25/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-26,2. Transportation - 66501,Transportation,66501
+1/25/2020,Food/Drinks,Optional,15.0,Quezon City,Metro Manila,National Capital Region,E2020-27,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+1/26/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-28,2. Transportation - 66501,Transportation,66501
+1/26/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-29,2. Transportation - 66501,Transportation,66501
+1/27/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-30,2. Transportation - 66501,Transportation,66501
+1/27/2020,Grocery,Survival,119.0,Quezon City,Metro Manila,National Capital Region,E2020-31,4. Grocery - 694835,Grocery,694835
+1/27/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-32,2. Transportation - 66501,Transportation,66501
+1/28/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-33,2. Transportation - 66501,Transportation,66501
+1/28/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-34,2. Transportation - 66501,Transportation,66501
+1/29/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-35,2. Transportation - 66501,Transportation,66501
+1/29/2020,Phone/Internet,Optional,50.0,Quezon City,Metro Manila,National Capital Region,E2020-36,7. Phone/Internet - 65009,Phone/Internet,65009
+1/29/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-37,2. Transportation - 66501,Transportation,66501
+1/29/2020,Eating/Going Out,Optional,139.0,Quezon City,Metro Manila,National Capital Region,E2020-38,3. Eating/Going Out - 66503,Eating/Going Out,66503
+1/29/2020,Food/Drinks,Optional,15.0,Quezon City,Metro Manila,National Capital Region,E2020-39,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+1/29/2020,Grocery,Survival,88.3,Quezon City,Metro Manila,National Capital Region,E2020-40,4. Grocery - 694835,Grocery,694835
+1/30/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-41,2. Transportation - 66501,Transportation,66501
+1/31/2020,Grocery,Survival,940.05,Quezon City,Metro Manila,National Capital Region,E2020-42,4. Grocery - 694835,Grocery,694835
+1/31/2020,Electricity/Water,Obligation,130.68,Quezon City,Metro Manila,National Capital Region,E2020-43,6. Electricity/Water - 65009,Electricity/Water,65009
+1/31/2020,Transportation,Survival,10.0,Quezon City,Metro Manila,National Capital Region,E2020-44,2. Transportation - 66501,Transportation,66501
+1/31/2020,Food/Drinks,Optional,5.0,Quezon City,Metro Manila,National Capital Region,E2020-45,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/1/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-46,2. Transportation - 66501,Transportation,66501
+2/2/2020,Transportation,Survival,20.0,Quezon City,Metro Manila,National Capital Region,E2020-47,2. Transportation - 66501,Transportation,66501
+2/2/2020,Eating/Going Out,Optional,42.0,Quezon City,Metro Manila,National Capital Region,E2020-48,3. Eating/Going Out - 66503,Eating/Going Out,66503
+2/2/2020,Transportation,Survival,28.0,Quezon City,Metro Manila,National Capital Region,E2020-49,2. Transportation - 66501,Transportation,66501
+2/2/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-50,2. Transportation - 66501,Transportation,66501
+2/3/2020,Food/Drinks,Optional,30.0,Quezon City,Metro Manila,National Capital Region,E2020-51,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/3/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-52,2. Transportation - 66501,Transportation,66501
+2/3/2020,Grocery,Survival,96.35,Quezon City,Metro Manila,National Capital Region,E2020-53,4. Grocery - 694835,Grocery,694835
+2/3/2020,Transportation,Survival,45.0,Quezon City,Metro Manila,National Capital Region,E2020-54,2. Transportation - 66501,Transportation,66501
+2/4/2020,Food/Drinks,Obligation,30.0,Quezon City,Metro Manila,National Capital Region,E2020-55,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/4/2020,Eating/Going Out,Optional,89.0,Quezon City,Metro Manila,National Capital Region,E2020-56,3. Eating/Going Out - 66503,Eating/Going Out,66503
+2/4/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-57,2. Transportation - 66501,Transportation,66501
+2/4/2020,Debt repayment,Obligation,18.0,Quezon City,Metro Manila,National Capital Region,E2020-58,9. Debt repayment - 60000-020,Debt repayment,60000-020
+2/4/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-59,2. Transportation - 66501,Transportation,66501
+2/5/2020,Eating/Going Out,Optional,11.0,Quezon City,Metro Manila,National Capital Region,E2020-60,3. Eating/Going Out - 66503,Eating/Going Out,66503
+2/5/2020,Eating/Going Out,Optional,79.0,Quezon City,Metro Manila,National Capital Region,E2020-61,3. Eating/Going Out - 66503,Eating/Going Out,66503
+2/5/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-62,2. Transportation - 66501,Transportation,66501
+2/5/2020,Phone/Internet,Optional,50.0,Quezon City,Metro Manila,National Capital Region,E2020-63,7. Phone/Internet - 65009,Phone/Internet,65009
+2/5/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-64,2. Transportation - 66501,Transportation,66501
+2/6/2020,Food/Drinks,Optional,30.0,Quezon City,Metro Manila,National Capital Region,E2020-65,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/6/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-66,2. Transportation - 66501,Transportation,66501
+2/6/2020,Food/Drinks,Optional,50.0,Quezon City,Metro Manila,National Capital Region,E2020-67,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/7/2020,Food/Drinks,Optional,60.0,Quezon City,Metro Manila,National Capital Region,E2020-68,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/8/2020,Food/Drinks,Optional,24.0,Quezon City,Metro Manila,National Capital Region,E2020-69,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/8/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-70,2. Transportation - 66501,Transportation,66501
+2/9/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-71,2. Transportation - 66501,Transportation,66501
+2/9/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-72,2. Transportation - 66501,Transportation,66501
+2/9/2020,Food/Drinks,Optional,15.0,Quezon City,Metro Manila,National Capital Region,E2020-73,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/10/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-74,2. Transportation - 66501,Transportation,66501
+2/10/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-75,2. Transportation - 66501,Transportation,66501
+2/11/2020,Eating/Going Out,Optional,30.0,Quezon City,Metro Manila,National Capital Region,E2020-76,3. Eating/Going Out - 66503,Eating/Going Out,66503
+2/11/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-77,2. Transportation - 66501,Transportation,66501
+2/11/2020,Grocery,Survival,75.0,Quezon City,Metro Manila,National Capital Region,E2020-78,4. Grocery - 694835,Grocery,694835
+2/11/2020,Phone/Internet,Optional,100.0,Quezon City,Metro Manila,National Capital Region,E2020-79,7. Phone/Internet - 65009,Phone/Internet,65009
+2/11/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-80,2. Transportation - 66501,Transportation,66501
+2/12/2020,Food/Drinks,Optional,30.0,Quezon City,Metro Manila,National Capital Region,E2020-81,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/12/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-82,2. Transportation - 66501,Transportation,66501
+2/12/2020,Transportation,Survival,18.0,Quezon City,Metro Manila,National Capital Region,E2020-83,2. Transportation - 66501,Transportation,66501
+2/13/2020,Transportation,Survival,18.0,Quezon City,Metro Manila,National Capital Region,E2020-84,2. Transportation - 66501,Transportation,66501
+2/13/2020,Eating/Going Out,Optional,487.0,Quezon City,Metro Manila,National Capital Region,E2020-85,3. Eating/Going Out - 66503,Eating/Going Out,66503
+2/13/2020,Hair Cut,Survival,50.0,Quezon City,Metro Manila,National Capital Region,E2020-86,10. Hair Cut - 60000-030,Hair Cut,60000-030
+2/14/2020,Transportation,Survival,157.0,Quezon City,Metro Manila,National Capital Region,E2020-87,2. Transportation - 66501,Transportation,66501
+2/14/2020,Eating/Going Out,Optional,170.0,Quezon City,Metro Manila,National Capital Region,E2020-88,3. Eating/Going Out - 66503,Eating/Going Out,66503
+2/14/2020,Grocery,Survival,965.9,Quezon City,Metro Manila,National Capital Region,E2020-89,4. Grocery - 694835,Grocery,694835
+2/15/2020,Food/Drinks,Optional,5.0,Quezon City,Metro Manila,National Capital Region,E2020-90,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/16/2020,Transportation,Optional,40.0,Quezon City,Metro Manila,National Capital Region,E2020-91,2. Transportation - 66501,Transportation,66501
+2/16/2020,Eating/Going Out,Optional,245.0,Quezon City,Metro Manila,National Capital Region,E2020-92,3. Eating/Going Out - 66503,Eating/Going Out,66503
+2/17/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-93,2. Transportation - 66501,Transportation,66501
+2/17/2020,Grocery,Survival,179.25,Quezon City,Metro Manila,National Capital Region,E2020-94,4. Grocery - 694835,Grocery,694835
+2/17/2020,Transportation,Survival,41.0,Quezon City,Metro Manila,National Capital Region,E2020-95,2. Transportation - 66501,Transportation,66501
+2/18/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-96,2. Transportation - 66501,Transportation,66501
+2/18/2020,Food/Drinks,Optional,5.0,Quezon City,Metro Manila,National Capital Region,E2020-97,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/18/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-98,2. Transportation - 66501,Transportation,66501
+2/18/2020,Home,Obligation,200.0,Quezon City,Metro Manila,National Capital Region,E2020-99,5. Home - 694835,Home,694835
+2/19/2020,Food/Drinks,Optional,35.0,Quezon City,Metro Manila,National Capital Region,E2020-100,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/19/2020,Phone/Internet,Optional,100.0,Quezon City,Metro Manila,National Capital Region,E2020-101,7. Phone/Internet - 65009,Phone/Internet,65009
+2/19/2020,Grocery,Survival,63.25,Quezon City,Metro Manila,National Capital Region,E2020-102,4. Grocery - 694835,Grocery,694835
+2/19/2020,Clothing/Shoes/Personal Items,Optional,665.15,Quezon City,Metro Manila,National Capital Region,E2020-103,8. Clothing/Shoes/Personal Items - 60000-010,Clothing/Shoes/Personal Items,60000-010
+2/20/2020,Food/Drinks,Optional,175.0,Quezon City,Metro Manila,National Capital Region,E2020-104,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/20/2020,Eating/Going Out,Optional,59.0,Quezon City,Metro Manila,National Capital Region,E2020-105,3. Eating/Going Out - 66503,Eating/Going Out,66503
+2/20/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-106,2. Transportation - 66501,Transportation,66501
+2/20/2020,Food/Drinks,Optional,25.0,Quezon City,Metro Manila,National Capital Region,E2020-107,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/20/2020,Garbage,Obligation,20.0,Quezon City,Metro Manila,National Capital Region,E2020-108,11. Garbage - 60000-040,Garbage,60000-040
+2/21/2020,Electricity/Water,Obligation,366.0,Quezon City,Metro Manila,National Capital Region,E2020-109,6. Electricity/Water - 65009,Electricity/Water,65009
+2/21/2020,Food/Drinks,Optional,37.0,Quezon City,Metro Manila,National Capital Region,E2020-110,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/22/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-111,2. Transportation - 66501,Transportation,66501
+2/23/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-112,2. Transportation - 66501,Transportation,66501
+2/23/2020,Grocery,Survival,135.0,Quezon City,Metro Manila,National Capital Region,E2020-113,4. Grocery - 694835,Grocery,694835
+2/23/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-114,2. Transportation - 66501,Transportation,66501
+2/23/2020,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2020-115,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/24/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-116,2. Transportation - 66501,Transportation,66501
+2/24/2020,Food/Drinks,Survival,20.0,Quezon City,Metro Manila,National Capital Region,E2020-117,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/24/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-118,2. Transportation - 66501,Transportation,66501
+2/25/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-119,2. Transportation - 66501,Transportation,66501
+2/25/2020,Grocery,Survival,80.68,Quezon City,Metro Manila,National Capital Region,E2020-120,4. Grocery - 694835,Grocery,694835
+2/25/2020,Transportation,Survival,45.0,Quezon City,Metro Manila,National Capital Region,E2020-121,2. Transportation - 66501,Transportation,66501
+2/26/2020,Food/Drinks,Optional,30.0,Quezon City,Metro Manila,National Capital Region,E2020-122,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/26/2020,Phone/Internet,Optional,100.0,Quezon City,Metro Manila,National Capital Region,E2020-123,7. Phone/Internet - 65009,Phone/Internet,65009
+2/26/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-124,2. Transportation - 66501,Transportation,66501
+2/27/2020,Eating/Going Out,Optional,89.0,Quezon City,Metro Manila,National Capital Region,E2020-125,3. Eating/Going Out - 66503,Eating/Going Out,66503
+2/27/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-126,2. Transportation - 66501,Transportation,66501
+2/27/2020,Grocery,Survival,278.41,Quezon City,Metro Manila,National Capital Region,E2020-127,4. Grocery - 694835,Grocery,694835
+2/28/2020,Transportation,Survival,19.0,Quezon City,Metro Manila,National Capital Region,E2020-128,2. Transportation - 66501,Transportation,66501
+2/28/2020,Grocery,Survival,1055.0,Quezon City,Metro Manila,National Capital Region,E2020-129,4. Grocery - 694835,Grocery,694835
+2/28/2020,Electricity/Water,Obligation,130.68,Quezon City,Metro Manila,National Capital Region,E2020-130,6. Electricity/Water - 65009,Electricity/Water,65009
+2/29/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-131,2. Transportation - 66501,Transportation,66501
+3/1/2020,Eating/Going Out,Optional,100.0,Quezon City,Metro Manila,National Capital Region,E2020-132,3. Eating/Going Out - 66503,Eating/Going Out,66503
+3/1/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-133,2. Transportation - 66501,Transportation,66501
+3/1/2020,Transportation,Survival,53.0,Quezon City,Metro Manila,National Capital Region,E2020-134,2. Transportation - 66501,Transportation,66501
+3/2/2020,Eating/Going Out,Optional,150.0,Quezon City,Metro Manila,National Capital Region,E2020-135,3. Eating/Going Out - 66503,Eating/Going Out,66503
+3/2/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-136,2. Transportation - 66501,Transportation,66501
+3/2/2020,Transportation,Survival,51.0,Quezon City,Metro Manila,National Capital Region,E2020-137,2. Transportation - 66501,Transportation,66501
+3/3/2020,Food/Drinks,Optional,35.0,Quezon City,Metro Manila,National Capital Region,E2020-138,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+3/3/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-139,2. Transportation - 66501,Transportation,66501
+3/3/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-140,2. Transportation - 66501,Transportation,66501
+3/4/2020,Eating/Going Out,Optional,118.0,Quezon City,Metro Manila,National Capital Region,E2020-141,3. Eating/Going Out - 66503,Eating/Going Out,66503
+3/4/2020,Food/Drinks,Optional,15.0,Quezon City,Metro Manila,National Capital Region,E2020-142,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+3/4/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-143,2. Transportation - 66501,Transportation,66501
+3/4/2020,Phone/Internet,Optional,50.0,Quezon City,Metro Manila,National Capital Region,E2020-144,7. Phone/Internet - 65009,Phone/Internet,65009
+3/4/2020,Grocery,Survival,105.6,Quezon City,Metro Manila,National Capital Region,E2020-145,4. Grocery - 694835,Grocery,694835
+3/5/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-146,2. Transportation - 66501,Transportation,66501
+3/5/2020,Eating/Going Out,Optional,86.0,Quezon City,Metro Manila,National Capital Region,E2020-147,3. Eating/Going Out - 66503,Eating/Going Out,66503
+3/5/2020,Grocery,Survival,294.9,Quezon City,Metro Manila,National Capital Region,E2020-148,4. Grocery - 694835,Grocery,694835
+3/7/2020,Food/Drinks,Optional,45.0,Quezon City,Metro Manila,National Capital Region,E2020-149,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+3/7/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-150,2. Transportation - 66501,Transportation,66501
+3/8/2020,Eating/Going Out,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-151,3. Eating/Going Out - 66503,Eating/Going Out,66503
+3/8/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-152,2. Transportation - 66501,Transportation,66501
+3/8/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-153,2. Transportation - 66501,Transportation,66501
+3/9/2020,Food/Drinks,Optional,129.0,Quezon City,Metro Manila,National Capital Region,E2020-154,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+3/9/2020,Transportation,Survival,53.0,Quezon City,Metro Manila,National Capital Region,E2020-155,2. Transportation - 66501,Transportation,66501
+3/9/2020,Clothing/Shoes/Personal Items,Optional,178.0,Quezon City,Metro Manila,National Capital Region,E2020-156,8. Clothing/Shoes/Personal Items - 60000-010,Clothing/Shoes/Personal Items,60000-010
+3/9/2020,Transportation,Survival,52.0,Quezon City,Metro Manila,National Capital Region,E2020-157,2. Transportation - 66501,Transportation,66501
+3/10/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-158,2. Transportation - 66501,Transportation,66501
+3/10/2020,Clothing/Shoes/Personal Items,Optional,175.0,Quezon City,Metro Manila,National Capital Region,E2020-159,8. Clothing/Shoes/Personal Items - 60000-010,Clothing/Shoes/Personal Items,60000-010
+3/10/2020,Grocery,Survival,116.0,Quezon City,Metro Manila,National Capital Region,E2020-160,4. Grocery - 694835,Grocery,694835
+3/10/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-161,2. Transportation - 66501,Transportation,66501
+3/11/2020,Grocery,Survival,41.0,Quezon City,Metro Manila,National Capital Region,E2020-162,4. Grocery - 694835,Grocery,694835
+3/11/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-163,2. Transportation - 66501,Transportation,66501
+3/11/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-164,2. Transportation - 66501,Transportation,66501
+3/12/2020,Eating/Going Out,Optional,89.0,Quezon City,Metro Manila,National Capital Region,E2020-165,3. Eating/Going Out - 66503,Eating/Going Out,66503
+3/12/2020,Food/Drinks,Optional,99.0,Quezon City,Metro Manila,National Capital Region,E2020-166,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+3/12/2020,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-167,2. Transportation - 66501,Transportation,66501
+3/12/2020,Grocery,Survival,87.0,Quezon City,Metro Manila,National Capital Region,E2020-168,4. Grocery - 694835,Grocery,694835
+3/12/2020,Food/Drinks,Optional,5.0,Quezon City,Metro Manila,National Capital Region,E2020-169,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+3/13/2020,Transportation,Survival,18.0,Quezon City,Metro Manila,National Capital Region,E2020-170,2. Transportation - 66501,Transportation,66501
+3/13/2020,Grocery,Survival,900.0,Quezon City,Metro Manila,National Capital Region,E2020-171,4. Grocery - 694835,Grocery,694835
+3/13/2020,Personal care items (drugstore),Survival,827.5,Quezon City,Metro Manila,National Capital Region,E2020-172,12. Personal care items (drugstore) - 60000-050,Personal care items (drugstore),60000-050
+3/13/2020,Eating/Going Out,Optional,119.0,Quezon City,Metro Manila,National Capital Region,E2020-173,3. Eating/Going Out - 66503,Eating/Going Out,66503
+3/14/2020,Food/Drinks,Optional,25.0,Quezon City,Metro Manila,National Capital Region,E2020-174,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+3/15/2020,Transportation,Survival,54.0,Quezon City,Metro Manila,National Capital Region,E2020-175,2. Transportation - 66501,Transportation,66501
+3/15/2020,Transportation,Survival,52.0,Quezon City,Metro Manila,National Capital Region,E2020-176,2. Transportation - 66501,Transportation,66501
+3/15/2020,Phone/Internet,Optional,100.0,Quezon City,Metro Manila,National Capital Region,E2020-177,7. Phone/Internet - 65009,Phone/Internet,65009
+3/17/2020,Transportation,Survival,18.0,Quezon City,Metro Manila,National Capital Region,E2020-178,2. Transportation - 66501,Transportation,66501
+3/17/2020,Grocery,Survival,650.0,Quezon City,Metro Manila,National Capital Region,E2020-179,4. Grocery - 694835,Grocery,694835
+3/18/2020,Phone/Internet,Optional,30.0,Quezon City,Metro Manila,National Capital Region,E2020-180,7. Phone/Internet - 65009,Phone/Internet,65009
+3/18/2020,Home,Obligation,200.0,Quezon City,Metro Manila,National Capital Region,E2020-181,5. Home - 694835,Home,694835
+3/19/2020,Entertainment/Subscriptions,Optional,159.0,Quezon City,Metro Manila,National Capital Region,E2020-182,13. Entertainment/Subscriptions - 60000-060,Entertainment/Subscriptions,60000-060
+3/19/2020,Food/Drinks,Optional,25.0,Quezon City,Metro Manila,National Capital Region,E2020-183,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+3/20/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-184,7. Phone/Internet - 65009,Phone/Internet,65009
+3/21/2020,Food/Drinks,Optional,45.0,Quezon City,Metro Manila,National Capital Region,E2020-185,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+3/23/2020,Grocery,Survival,937.35,Quezon City,Metro Manila,National Capital Region,E2020-186,4. Grocery - 694835,Grocery,694835
+3/23/2020,Phone/Internet,Optional,103.0,Quezon City,Metro Manila,National Capital Region,E2020-187,7. Phone/Internet - 65009,Phone/Internet,65009
+3/26/2020,Food/Drinks,Optional,23.0,Quezon City,Metro Manila,National Capital Region,E2020-188,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+3/28/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-189,7. Phone/Internet - 65009,Phone/Internet,65009
+3/28/2020,Food/Drinks,Optional,35.0,Quezon City,Metro Manila,National Capital Region,E2020-190,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+3/29/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-191,7. Phone/Internet - 65009,Phone/Internet,65009
+3/31/2020,Grocery,Survival,958.32,Quezon City,Metro Manila,National Capital Region,E2020-192,4. Grocery - 694835,Grocery,694835
+4/1/2020,Entertainment/Subscriptions,Optional,159.0,Quezon City,Metro Manila,National Capital Region,E2020-193,13. Entertainment/Subscriptions - 60000-060,Entertainment/Subscriptions,60000-060
+4/1/2020,Food/Drinks,Optional,11.0,Quezon City,Metro Manila,National Capital Region,E2020-194,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+4/1/2020,Food/Drinks,Optional,6.0,Quezon City,Metro Manila,National Capital Region,E2020-195,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+4/2/2020,Others,Optional,5390.4,Quezon City,Metro Manila,National Capital Region,E2020-196,14. Others - 60000-070,Others,60000-070
+4/3/2020,Phone/Internet,Optional,100.0,Quezon City,Metro Manila,National Capital Region,E2020-197,7. Phone/Internet - 65009,Phone/Internet,65009
+4/4/2020,Food/Drinks,Optional,5.0,Quezon City,Metro Manila,National Capital Region,E2020-198,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+4/4/2020,Food/Drinks,Optional,5.0,Quezon City,Metro Manila,National Capital Region,E2020-199,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+4/5/2020,Phone/Internet,Optional,140.0,Quezon City,Metro Manila,National Capital Region,E2020-200,7. Phone/Internet - 65009,Phone/Internet,65009
+4/5/2020,Grocery,Survival,425.5,Quezon City,Metro Manila,National Capital Region,E2020-201,4. Grocery - 694835,Grocery,694835
+4/6/2020,Phone/Internet,Optional,50.0,Quezon City,Metro Manila,National Capital Region,E2020-202,7. Phone/Internet - 65009,Phone/Internet,65009
+4/9/2020,Phone/Internet,Optional,100.0,Quezon City,Metro Manila,National Capital Region,E2020-203,7. Phone/Internet - 65009,Phone/Internet,65009
+4/10/2020,Food/Drinks,Optional,35.0,Quezon City,Metro Manila,National Capital Region,E2020-204,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+4/11/2020,Grocery,Survival,666.06,Quezon City,Metro Manila,National Capital Region,E2020-205,4. Grocery - 694835,Grocery,694835
+4/12/2020,Food/Drinks,Optional,10.0,Quezon City,Metro Manila,National Capital Region,E2020-206,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+4/13/2020,Food/Drinks,Optional,6.0,Quezon City,Metro Manila,National Capital Region,E2020-207,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+4/13/2020,Others,Optional,23.0,Quezon City,Metro Manila,National Capital Region,E2020-208,14. Others - 60000-070,Others,60000-070
+5/2/2020,Food/Drinks,Optional,35.0,Quezon City,Metro Manila,National Capital Region,E2020-209,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+5/3/2020,Grocery,Survival,601.83,Quezon City,Metro Manila,National Capital Region,E2020-210,4. Grocery - 694835,Grocery,694835
+5/6/2020,Food/Drinks,Optional,23.0,Quezon City,Metro Manila,National Capital Region,E2020-211,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+5/9/2020,Food/Drinks,Optional,23.0,Quezon City,Metro Manila,National Capital Region,E2020-212,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+5/9/2020,Clothing/Shoes/Personal Items,Optional,469.0,Quezon City,Metro Manila,National Capital Region,E2020-213,8. Clothing/Shoes/Personal Items - 60000-010,Clothing/Shoes/Personal Items,60000-010
+5/9/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-214,7. Phone/Internet - 65009,Phone/Internet,65009
+5/10/2020,Grocery,Survival,1000.0,Quezon City,Metro Manila,National Capital Region,E2020-215,4. Grocery - 694835,Grocery,694835
+5/14/2020,Food/Drinks,Optional,26.0,Quezon City,Metro Manila,National Capital Region,E2020-216,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+5/15/2020,Grocery,Survival,1172.02,Quezon City,Metro Manila,National Capital Region,E2020-217,4. Grocery - 694835,Grocery,694835
+5/16/2020,Phone/Internet,Optional,85.0,Quezon City,Metro Manila,National Capital Region,E2020-218,7. Phone/Internet - 65009,Phone/Internet,65009
+5/16/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-219,7. Phone/Internet - 65009,Phone/Internet,65009
+5/17/2020,Phone/Internet,Optional,99.0,Quezon City,Metro Manila,National Capital Region,E2020-220,7. Phone/Internet - 65009,Phone/Internet,65009
+5/17/2020,Phone/Internet,Obligation,225.0,Quezon City,Metro Manila,National Capital Region,E2020-221,7. Phone/Internet - 65009,Phone/Internet,65009
+5/17/2020,Food/Drinks,Optional,5.0,Quezon City,Metro Manila,National Capital Region,E2020-222,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+5/17/2020,Grocery,Survival,1000.0,Quezon City,Metro Manila,National Capital Region,E2020-223,4. Grocery - 694835,Grocery,694835
+5/18/2020,Phone/Internet,Optional,100.0,Quezon City,Metro Manila,National Capital Region,E2020-224,7. Phone/Internet - 65009,Phone/Internet,65009
+5/19/2020,Grocery,Survival,793.08,Quezon City,Metro Manila,National Capital Region,E2020-225,4. Grocery - 694835,Grocery,694835
+5/19/2020,Home,Obligation,300.0,Quezon City,Metro Manila,National Capital Region,E2020-226,5. Home - 694835,Home,694835
+5/20/2020,Food/Drinks,Survival,103.0,Quezon City,Metro Manila,National Capital Region,E2020-227,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+5/20/2020,Electricity/Water,Obligation,420.0,Quezon City,Metro Manila,National Capital Region,E2020-228,6. Electricity/Water - 65009,Electricity/Water,65009
+5/21/2020,Phone/Internet,Optional,20.0,Quezon City,Metro Manila,National Capital Region,E2020-229,7. Phone/Internet - 65009,Phone/Internet,65009
+5/22/2020,Clothing/Shoes/Personal Items,Optional,1044.0,Quezon City,Metro Manila,National Capital Region,E2020-230,8. Clothing/Shoes/Personal Items - 60000-010,Clothing/Shoes/Personal Items,60000-010
+5/22/2020,Food/Drinks,Optional,25.0,Quezon City,Metro Manila,National Capital Region,E2020-231,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+5/22/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-232,7. Phone/Internet - 65009,Phone/Internet,65009
+5/23/2020,Home,Obligation,200.0,Quezon City,Metro Manila,National Capital Region,E2020-233,5. Home - 694835,Home,694835
+5/23/2020,Food/Drinks,Survival,52.0,Quezon City,Metro Manila,National Capital Region,E2020-234,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+5/24/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-235,7. Phone/Internet - 65009,Phone/Internet,65009
+5/24/2020,Grocery,Survival,665.48,Quezon City,Metro Manila,National Capital Region,E2020-236,4. Grocery - 694835,Grocery,694835
+5/24/2020,Food/Drinks,Optional,6.0,Quezon City,Metro Manila,National Capital Region,E2020-237,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+5/25/2020,Phone/Internet,Optional,199.0,Quezon City,Metro Manila,National Capital Region,E2020-238,7. Phone/Internet - 65009,Phone/Internet,65009
+5/28/2020,Entertainment/Subscriptions,Optional,150.0,Quezon City,Metro Manila,National Capital Region,E2020-239,13. Entertainment/Subscriptions - 60000-060,Entertainment/Subscriptions,60000-060
+5/29/2020,Clothing/Shoes/Personal Items,Optional,259.0,Quezon City,Metro Manila,National Capital Region,E2020-240,8. Clothing/Shoes/Personal Items - 60000-010,Clothing/Shoes/Personal Items,60000-010
+5/29/2020,Grocery,Survival,604.26,Quezon City,Metro Manila,National Capital Region,E2020-241,4. Grocery - 694835,Grocery,694835
+5/29/2020,Food/Drinks,Optional,10.0,Quezon City,Metro Manila,National Capital Region,E2020-242,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+5/30/2020,Food/Drinks,Optional,10.0,Quezon City,Metro Manila,National Capital Region,E2020-243,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+6/1/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-244,7. Phone/Internet - 65009,Phone/Internet,65009
+6/3/2020,Grocery,Survival,1038.35,Quezon City,Metro Manila,National Capital Region,E2020-245,4. Grocery - 694835,Grocery,694835
+6/5/2020,Food/Drinks,Survival,113.0,Quezon City,Metro Manila,National Capital Region,E2020-246,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+6/6/2020,Food/Drinks,Optional,35.0,Quezon City,Metro Manila,National Capital Region,E2020-247,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+6/8/2020,Phone/Internet,Optional,199.0,Quezon City,Metro Manila,National Capital Region,E2020-248,7. Phone/Internet - 65009,Phone/Internet,65009
+6/9/2020,Grocery,Survival,815.0,Quezon City,Metro Manila,National Capital Region,E2020-249,4. Grocery - 694835,Grocery,694835
+6/12/2020,Food/Drinks,Optional,25.0,Quezon City,Metro Manila,National Capital Region,E2020-250,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+6/14/2020,Phone/Internet,Optional,199.0,Quezon City,Metro Manila,National Capital Region,E2020-251,7. Phone/Internet - 65009,Phone/Internet,65009
+6/14/2020,Grocery,Survival,850.0,Quezon City,Metro Manila,National Capital Region,E2020-252,4. Grocery - 694835,Grocery,694835
+6/15/2020,Phone/Internet,Optional,15.0,Quezon City,Metro Manila,National Capital Region,E2020-253,7. Phone/Internet - 65009,Phone/Internet,65009
+6/15/2020,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2020-254,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+6/21/2020,Grocery,Survival,1000.0,Quezon City,Metro Manila,National Capital Region,E2020-255,4. Grocery - 694835,Grocery,694835
+6/22/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-256,7. Phone/Internet - 65009,Phone/Internet,65009
+6/24/2020,Entertainment/Subscriptions,Optional,344.0,Quezon City,Metro Manila,National Capital Region,E2020-257,13. Entertainment/Subscriptions - 60000-060,Entertainment/Subscriptions,60000-060
+6/24/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-258,7. Phone/Internet - 65009,Phone/Internet,65009
+6/25/2020,Food/Drinks,Optional,5.0,Quezon City,Metro Manila,National Capital Region,E2020-259,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+6/27/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-260,7. Phone/Internet - 65009,Phone/Internet,65009
+6/27/2020,Grocery,Survival,610.83,Quezon City,Metro Manila,National Capital Region,E2020-261,4. Grocery - 694835,Grocery,694835
+6/29/2020,Phone/Internet,Optional,199.0,Quezon City,Metro Manila,National Capital Region,E2020-262,7. Phone/Internet - 65009,Phone/Internet,65009
+7/1/2020,Electricity/Water,Obligation,522.72,Quezon City,Metro Manila,National Capital Region,E2020-263,6. Electricity/Water - 65009,Electricity/Water,65009
+7/2/2020,Phone/Internet,Optional,50.0,Quezon City,Metro Manila,National Capital Region,E2020-264,7. Phone/Internet - 65009,Phone/Internet,65009
+7/2/2020,Transportation,Survival,129.0,Quezon City,Metro Manila,National Capital Region,E2020-265,2. Transportation - 66501,Transportation,66501
+7/2/2020,Food/Drinks,Survival,119.0,Quezon City,Metro Manila,National Capital Region,E2020-266,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/3/2020,Transportation,Survival,96.0,Quezon City,Metro Manila,National Capital Region,E2020-267,2. Transportation - 66501,Transportation,66501
+7/3/2020,Others,Survival,170.0,Quezon City,Metro Manila,National Capital Region,E2020-268,14. Others - 60000-070,Others,60000-070
+7/3/2020,Grocery,Survival,310.3,Quezon City,Metro Manila,National Capital Region,E2020-269,4. Grocery - 694835,Grocery,694835
+7/3/2020,Magazines/Newspapers/Books,Optional,160.0,Quezon City,Metro Manila,National Capital Region,E2020-270,15. Magazines/Newspapers/Books - 60000-080,Magazines/Newspapers/Books,60000-080
+7/5/2020,Grocery,Survival,437.0,Quezon City,Metro Manila,National Capital Region,E2020-271,4. Grocery - 694835,Grocery,694835
+7/5/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-272,7. Phone/Internet - 65009,Phone/Internet,65009
+7/6/2020,Food/Drinks,Survival,130.0,Quezon City,Metro Manila,National Capital Region,E2020-273,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/7/2020,Food/Drinks,Survival,100.0,Quezon City,Metro Manila,National Capital Region,E2020-274,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/8/2020,Food/Drinks,Survival,99.0,Quezon City,Metro Manila,National Capital Region,E2020-275,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/8/2020,Apartment,Obligation,4000.0,Quezon City,Metro Manila,National Capital Region,E2020-276,16. Apartment - 694835,Apartment,694835
+7/9/2020,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2020-277,2. Transportation - 66501,Transportation,66501
+7/9/2020,Food/Drinks,Survival,86.0,Quezon City,Metro Manila,National Capital Region,E2020-278,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/10/2020,Transportation,Survival,59.0,Quezon City,Metro Manila,National Capital Region,E2020-279,2. Transportation - 66501,Transportation,66501
+7/10/2020,Food/Drinks,Survival,89.0,Quezon City,Metro Manila,National Capital Region,E2020-280,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/11/2020,Transportation,Survival,81.0,Quezon City,Metro Manila,National Capital Region,E2020-281,2. Transportation - 66501,Transportation,66501
+7/11/2020,Grocery,Survival,845.65,Quezon City,Metro Manila,National Capital Region,E2020-282,4. Grocery - 694835,Grocery,694835
+7/12/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-283,7. Phone/Internet - 65009,Phone/Internet,65009
+7/13/2020,Transportation,Survival,59.0,Quezon City,Metro Manila,National Capital Region,E2020-284,2. Transportation - 66501,Transportation,66501
+7/13/2020,Food/Drinks,Survival,89.0,Quezon City,Metro Manila,National Capital Region,E2020-285,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/14/2020,Transportation,Survival,59.0,Quezon City,Metro Manila,National Capital Region,E2020-286,2. Transportation - 66501,Transportation,66501
+7/14/2020,Food/Drinks,Survival,89.0,Quezon City,Metro Manila,National Capital Region,E2020-287,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/15/2020,Transportation,Survival,59.0,Quezon City,Metro Manila,National Capital Region,E2020-288,2. Transportation - 66501,Transportation,66501
+7/15/2020,Food/Drinks,Survival,89.0,Quezon City,Metro Manila,National Capital Region,E2020-289,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/16/2020,Transportation,Survival,59.0,Quezon City,Metro Manila,National Capital Region,E2020-290,2. Transportation - 66501,Transportation,66501
+7/16/2020,Food/Drinks,Optional,45.0,Quezon City,Metro Manila,National Capital Region,E2020-291,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/17/2020,Transportation,Survival,59.0,Quezon City,Metro Manila,National Capital Region,E2020-292,2. Transportation - 66501,Transportation,66501
+7/20/2020,Food/Drinks,Survival,67.0,Quezon City,Metro Manila,National Capital Region,E2020-293,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/20/2020,Grocery,Survival,80.0,Quezon City,Metro Manila,National Capital Region,E2020-294,4. Grocery - 694835,Grocery,694835
+7/20/2020,Transportation,Survival,94.0,Quezon City,Metro Manila,National Capital Region,E2020-295,2. Transportation - 66501,Transportation,66501
+7/21/2020,Food/Drinks,Survival,63.0,Quezon City,Metro Manila,National Capital Region,E2020-296,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/21/2020,Transportation,Survival,94.0,Quezon City,Metro Manila,National Capital Region,E2020-297,2. Transportation - 66501,Transportation,66501
+7/21/2020,Food/Drinks,Optional,198.0,Quezon City,Metro Manila,National Capital Region,E2020-298,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/22/2020,Food/Drinks,Survival,89.0,Quezon City,Metro Manila,National Capital Region,E2020-299,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/22/2020,Transportation,Survival,94.0,Quezon City,Metro Manila,National Capital Region,E2020-300,2. Transportation - 66501,Transportation,66501
+7/23/2020,Food/Drinks,Survival,89.0,Quezon City,Metro Manila,National Capital Region,E2020-301,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/24/2020,Food/Drinks,Survival,125.0,Quezon City,Metro Manila,National Capital Region,E2020-302,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/24/2020,Grocery,Survival,175.0,Quezon City,Metro Manila,National Capital Region,E2020-303,4. Grocery - 694835,Grocery,694835
+7/26/2020,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2020-304,2. Transportation - 66501,Transportation,66501
+7/27/2020,Food/Drinks,Survival,46.0,Quezon City,Metro Manila,National Capital Region,E2020-305,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/28/2020,Transportation,Survival,450.11,Quezon City,Metro Manila,National Capital Region,E2020-306,2. Transportation - 66501,Transportation,66501
+7/28/2020,Food/Drinks,Survival,89.0,Quezon City,Metro Manila,National Capital Region,E2020-307,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/29/2020,Food/Drinks,Survival,39.0,Quezon City,Metro Manila,National Capital Region,E2020-308,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/29/2020,Food/Drinks,Survival,45.0,Quezon City,Metro Manila,National Capital Region,E2020-309,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/31/2020,Food/Drinks,Survival,174.0,Quezon City,Metro Manila,National Capital Region,E2020-310,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+8/1/2020,Grocery,Survival,946.0,Quezon City,Metro Manila,National Capital Region,E2020-311,4. Grocery - 694835,Grocery,694835
+8/1/2020,Transportation,Survival,26.0,Quezon City,Metro Manila,National Capital Region,E2020-312,2. Transportation - 66501,Transportation,66501
+8/2/2020,Phone/Internet,Optional,199.0,Quezon City,Metro Manila,National Capital Region,E2020-313,7. Phone/Internet - 65009,Phone/Internet,65009
+8/3/2020,Electricity/Water,Obligation,257.58,Quezon City,Metro Manila,National Capital Region,E2020-314,6. Electricity/Water - 65009,Electricity/Water,65009
+8/3/2020,Food/Drinks,Optional,30.0,Quezon City,Metro Manila,National Capital Region,E2020-315,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+8/5/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-316,7. Phone/Internet - 65009,Phone/Internet,65009
+8/7/2020,Food/Drinks,Survival,30.0,Quezon City,Metro Manila,National Capital Region,E2020-317,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+8/8/2020,Grocery,Survival,265.53,Quezon City,Metro Manila,National Capital Region,E2020-318,4. Grocery - 694835,Grocery,694835
+8/8/2020,Food/Drinks,Survival,30.0,Quezon City,Metro Manila,National Capital Region,E2020-319,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+8/10/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-320,7. Phone/Internet - 65009,Phone/Internet,65009
+8/11/2020,Food/Drinks,Survival,30.0,Quezon City,Metro Manila,National Capital Region,E2020-321,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+8/12/2020,Food/Drinks,Survival,30.0,Quezon City,Metro Manila,National Capital Region,E2020-322,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+8/12/2020,Food/Drinks,Survival,85.0,Quezon City,Metro Manila,National Capital Region,E2020-323,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+8/12/2020,Food/Drinks,Optional,10.0,Quezon City,Metro Manila,National Capital Region,E2020-324,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+8/13/2020,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2020-325,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+8/15/2020,Grocery,Survival,744.0,Quezon City,Metro Manila,National Capital Region,E2020-326,4. Grocery - 694835,Grocery,694835
+8/15/2020,Phone/Internet,Optional,199.0,Quezon City,Metro Manila,National Capital Region,E2020-327,7. Phone/Internet - 65009,Phone/Internet,65009
+8/16/2020,Apartment,Obligation,3000.0,Quezon City,Metro Manila,National Capital Region,E2020-328,16. Apartment - 694835,Apartment,694835
+8/16/2020,Electricity/Water,Obligation,350.0,Quezon City,Metro Manila,National Capital Region,E2020-329,6. Electricity/Water - 65009,Electricity/Water,65009
+8/18/2020,Food/Drinks,Survival,120.0,Quezon City,Metro Manila,National Capital Region,E2020-330,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+8/18/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-331,7. Phone/Internet - 65009,Phone/Internet,65009
+8/21/2020,Food/Drinks,Survival,175.0,Quezon City,Metro Manila,National Capital Region,E2020-332,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+8/22/2020,Grocery,Survival,909.73,Quezon City,Metro Manila,National Capital Region,E2020-333,4. Grocery - 694835,Grocery,694835
+8/22/2020,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2020-334,2. Transportation - 66501,Transportation,66501
+8/26/2020,Grocery,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2020-335,4. Grocery - 694835,Grocery,694835
+8/27/2020,Garbage,Obligation,20.0,Quezon City,Metro Manila,National Capital Region,E2020-336,11. Garbage - 60000-040,Garbage,60000-040
+8/28/2020,Electricity/Water,Obligation,148.68,Quezon City,Metro Manila,National Capital Region,E2020-337,6. Electricity/Water - 65009,Electricity/Water,65009
+8/29/2020,Grocery,Survival,826.42,Quezon City,Metro Manila,National Capital Region,E2020-338,4. Grocery - 694835,Grocery,694835
+8/29/2020,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2020-339,2. Transportation - 66501,Transportation,66501
+8/29/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-340,7. Phone/Internet - 65009,Phone/Internet,65009
+9/2/2020,Food/Drinks,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2020-341,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/3/2020,Food/Drinks,Survival,30.0,Quezon City,Metro Manila,National Capital Region,E2020-342,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/3/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-343,7. Phone/Internet - 65009,Phone/Internet,65009
+9/5/2020,Grocery,Survival,616.98,Quezon City,Metro Manila,National Capital Region,E2020-344,4. Grocery - 694835,Grocery,694835
+9/5/2020,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2020-345,2. Transportation - 66501,Transportation,66501
+9/8/2020,Food/Drinks,Survival,100.0,Quezon City,Metro Manila,National Capital Region,E2020-346,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/9/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-347,7. Phone/Internet - 65009,Phone/Internet,65009
+9/10/2020,Food/Drinks,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2020-348,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/10/2020,Food/Drinks,Survival,60.0,Quezon City,Metro Manila,National Capital Region,E2020-349,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/12/2020,Grocery,Survival,735.43,Quezon City,Metro Manila,National Capital Region,E2020-350,4. Grocery - 694835,Grocery,694835
+9/12/2020,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2020-351,2. Transportation - 66501,Transportation,66501
+9/13/2020,Others,Unexpected,418.0,Quezon City,Metro Manila,National Capital Region,E2020-352,14. Others - 60000-070,Others,60000-070
+9/14/2020,Others,Unexpected,276.0,Quezon City,Metro Manila,National Capital Region,E2020-353,14. Others - 60000-070,Others,60000-070
+9/14/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-354,7. Phone/Internet - 65009,Phone/Internet,65009
+9/16/2020,Food/Drinks,Survival,100.0,Quezon City,Metro Manila,National Capital Region,E2020-355,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/17/2020,Food/Drinks,Survival,20.0,Quezon City,Metro Manila,National Capital Region,E2020-356,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/17/2020,Garbage,Obligation,20.0,Quezon City,Metro Manila,National Capital Region,E2020-357,11. Garbage - 60000-040,Garbage,60000-040
+9/18/2020,Food/Drinks,Survival,68.0,Quezon City,Metro Manila,National Capital Region,E2020-358,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/18/2020,Entertainment/Subscriptions,Optional,129.0,Quezon City,Metro Manila,National Capital Region,E2020-359,13. Entertainment/Subscriptions - 60000-060,Entertainment/Subscriptions,60000-060
+9/19/2020,Grocery,Survival,863.38,Quezon City,Metro Manila,National Capital Region,E2020-360,4. Grocery - 694835,Grocery,694835
+9/19/2020,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2020-361,2. Transportation - 66501,Transportation,66501
+9/19/2020,Electricity/Water,Obligation,130.68,Quezon City,Metro Manila,National Capital Region,E2020-362,6. Electricity/Water - 65009,Electricity/Water,65009
+9/20/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-363,7. Phone/Internet - 65009,Phone/Internet,65009
+9/24/2020,Food/Drinks,Survival,20.0,Quezon City,Metro Manila,National Capital Region,E2020-364,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/24/2020,Food/Drinks,Survival,140.0,Quezon City,Metro Manila,National Capital Region,E2020-365,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/24/2020,Garbage,Obligation,10.0,Quezon City,Metro Manila,National Capital Region,E2020-366,11. Garbage - 60000-040,Garbage,60000-040
+9/24/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-367,7. Phone/Internet - 65009,Phone/Internet,65009
+9/25/2020,Eating/Going Out,Optional,118.0,Quezon City,Metro Manila,National Capital Region,E2020-368,3. Eating/Going Out - 66503,Eating/Going Out,66503
+9/25/2020,Grocery,Survival,600.0,Quezon City,Metro Manila,National Capital Region,E2020-369,4. Grocery - 694835,Grocery,694835
+9/25/2020,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2020-370,2. Transportation - 66501,Transportation,66501
+9/26/2020,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2020-371,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/29/2020,Food/Drinks,Survival,130.0,Quezon City,Metro Manila,National Capital Region,E2020-372,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/29/2020,Phone/Internet,Optional,50.0,Quezon City,Metro Manila,National Capital Region,E2020-373,7. Phone/Internet - 65009,Phone/Internet,65009
+10/1/2020,Food/Drinks,Survival,78.0,Quezon City,Metro Manila,National Capital Region,E2020-374,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+10/2/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-375,7. Phone/Internet - 65009,Phone/Internet,65009
+10/2/2020,Grocery,Survival,125.0,Quezon City,Metro Manila,National Capital Region,E2020-376,4. Grocery - 694835,Grocery,694835
+10/2/2020,Grocery,Survival,756.78,Quezon City,Metro Manila,National Capital Region,E2020-377,4. Grocery - 694835,Grocery,694835
+10/2/2020,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2020-378,2. Transportation - 66501,Transportation,66501
+10/3/2020,Phone/Internet,Optional,199.0,Quezon City,Metro Manila,National Capital Region,E2020-379,7. Phone/Internet - 65009,Phone/Internet,65009
+10/8/2020,Food/Drinks,Survival,96.0,Quezon City,Metro Manila,National Capital Region,E2020-380,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+10/8/2020,Food/Drinks,Survival,20.0,Quezon City,Metro Manila,National Capital Region,E2020-381,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+10/8/2020,Food/Drinks,Survival,16.0,Quezon City,Metro Manila,National Capital Region,E2020-382,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+10/9/2020,Grocery,Survival,883.18,Quezon City,Metro Manila,National Capital Region,E2020-383,4. Grocery - 694835,Grocery,694835
+10/9/2020,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2020-384,2. Transportation - 66501,Transportation,66501
+10/9/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-385,7. Phone/Internet - 65009,Phone/Internet,65009
+10/13/2020,Food/Drinks,Survival,85.0,Quezon City,Metro Manila,National Capital Region,E2020-386,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+10/15/2020,Garbage,Obligation,20.0,Quezon City,Metro Manila,National Capital Region,E2020-387,11. Garbage - 60000-040,Garbage,60000-040
+10/15/2020,Food/Drinks,Survival,48.0,Quezon City,Metro Manila,National Capital Region,E2020-388,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+10/16/2020,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2020-389,2. Transportation - 66501,Transportation,66501
+10/16/2020,Grocery,Survival,489.6,Quezon City,Metro Manila,National Capital Region,E2020-390,4. Grocery - 694835,Grocery,694835
+10/16/2020,Grocery,Survival,135.0,Quezon City,Metro Manila,National Capital Region,E2020-391,4. Grocery - 694835,Grocery,694835
+10/16/2020,Food/Drinks,Survival,96.0,Quezon City,Metro Manila,National Capital Region,E2020-392,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+10/16/2020,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2020-393,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+10/16/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-394,7. Phone/Internet - 65009,Phone/Internet,65009
+10/22/2020,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2020-395,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+10/23/2020,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2020-396,2. Transportation - 66501,Transportation,66501
+10/23/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-397,7. Phone/Internet - 65009,Phone/Internet,65009
+10/23/2020,Grocery,Survival,649.88,Quezon City,Metro Manila,National Capital Region,E2020-398,4. Grocery - 694835,Grocery,694835
+10/23/2020,Home,Obligation,800.0,Quezon City,Metro Manila,National Capital Region,E2020-399,5. Home - 694835,Home,694835
+10/25/2020,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2020-400,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+10/25/2020,Electricity/Water,Obligation,130.68,Quezon City,Metro Manila,National Capital Region,E2020-401,6. Electricity/Water - 65009,Electricity/Water,65009
+10/29/2020,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2020-402,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+10/29/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-403,7. Phone/Internet - 65009,Phone/Internet,65009
+10/30/2020,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2020-404,2. Transportation - 66501,Transportation,66501
+10/30/2020,Grocery,Survival,684.1,Quezon City,Metro Manila,National Capital Region,E2020-405,4. Grocery - 694835,Grocery,694835
+10/30/2020,Food/Drinks,Survival,96.0,Quezon City,Metro Manila,National Capital Region,E2020-406,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+10/30/2020,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2020-407,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+10/30/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-408,7. Phone/Internet - 65009,Phone/Internet,65009
+11/3/2020,Clothing/Shoes/Personal Items,Optional,945.45,Quezon City,Metro Manila,National Capital Region,E2020-409,8. Clothing/Shoes/Personal Items - 60000-010,Clothing/Shoes/Personal Items,60000-010
+11/4/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-410,7. Phone/Internet - 65009,Phone/Internet,65009
+11/5/2020,Food/Drinks,Survival,27.0,Quezon City,Metro Manila,National Capital Region,E2020-411,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+11/6/2020,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2020-412,2. Transportation - 66501,Transportation,66501
+11/6/2020,Grocery,Survival,695.68,Quezon City,Metro Manila,National Capital Region,E2020-413,4. Grocery - 694835,Grocery,694835
+11/6/2020,Food/Drinks,Survival,96.0,Quezon City,Metro Manila,National Capital Region,E2020-414,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+11/6/2020,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2020-415,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+11/8/2020,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2020-416,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+11/11/2020,Clothing/Shoes/Personal Items,Optional,1931.35,Quezon City,Metro Manila,National Capital Region,E2020-417,8. Clothing/Shoes/Personal Items - 60000-010,Clothing/Shoes/Personal Items,60000-010
+11/13/2020,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2020-418,2. Transportation - 66501,Transportation,66501
+11/13/2020,Grocery,Survival,759.05,Quezon City,Metro Manila,National Capital Region,E2020-419,4. Grocery - 694835,Grocery,694835
+11/13/2020,Food/Drinks,Survival,96.0,Quezon City,Metro Manila,National Capital Region,E2020-420,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+11/13/2020,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2020-421,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+11/14/2020,Electricity/Water,Obligation,448.5,Quezon City,Metro Manila,National Capital Region,E2020-422,6. Electricity/Water - 65009,Electricity/Water,65009
+11/15/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-423,7. Phone/Internet - 65009,Phone/Internet,65009
+11/17/2020,Food/Drinks,Survival,84.0,Quezon City,Metro Manila,National Capital Region,E2020-424,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+11/19/2020,Food/Drinks,Survival,34.0,Quezon City,Metro Manila,National Capital Region,E2020-425,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+11/20/2020,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2020-426,2. Transportation - 66501,Transportation,66501
+11/20/2020,Grocery,Survival,690.41,Quezon City,Metro Manila,National Capital Region,E2020-427,4. Grocery - 694835,Grocery,694835
+11/22/2020,Entertainment/Subscriptions,Optional,149.0,Quezon City,Metro Manila,National Capital Region,E2020-428,13. Entertainment/Subscriptions - 60000-060,Entertainment/Subscriptions,60000-060
+11/22/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-429,7. Phone/Internet - 65009,Phone/Internet,65009
+11/24/2020,Food/Drinks,Survival,93.0,Quezon City,Metro Manila,National Capital Region,E2020-430,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+11/27/2020,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2020-431,2. Transportation - 66501,Transportation,66501
+11/27/2020,Grocery,Survival,611.12,Quezon City,Metro Manila,National Capital Region,E2020-432,4. Grocery - 694835,Grocery,694835
+11/27/2020,Food/Drinks,Survival,96.0,Quezon City,Metro Manila,National Capital Region,E2020-433,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+11/27/2020,Bank fees,Obligation,380.0,Quezon City,Metro Manila,National Capital Region,E2020-434,17. Bank fees - 65009,Bank fees,65009
+11/28/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-435,7. Phone/Internet - 65009,Phone/Internet,65009
+11/28/2020,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2020-436,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+11/28/2020,Clothing/Shoes/Personal Items,Optional,2128.82,Quezon City,Metro Manila,National Capital Region,E2020-437,8. Clothing/Shoes/Personal Items - 60000-010,Clothing/Shoes/Personal Items,60000-010
+11/30/2020,Electricity/Water,Obligation,130.68,Quezon City,Metro Manila,National Capital Region,E2020-438,6. Electricity/Water - 65009,Electricity/Water,65009
+12/1/2020,Food/Drinks,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2020-439,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+12/4/2020,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2020-440,2. Transportation - 66501,Transportation,66501
+12/4/2020,Hair Cut,Optional,60.0,Quezon City,Metro Manila,National Capital Region,E2020-441,10. Hair Cut - 60000-030,Hair Cut,60000-030
+12/4/2020,Grocery,Survival,557.9,Quezon City,Metro Manila,National Capital Region,E2020-442,4. Grocery - 694835,Grocery,694835
+12/5/2020,Food/Drinks,Survival,96.0,Quezon City,Metro Manila,National Capital Region,E2020-443,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+12/5/2020,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2020-444,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+12/8/2020,Food/Drinks,Survival,100.0,Quezon City,Metro Manila,National Capital Region,E2020-445,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+12/9/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-446,7. Phone/Internet - 65009,Phone/Internet,65009
+12/11/2020,Grocery,Survival,789.77,Quezon City,Metro Manila,National Capital Region,E2020-447,4. Grocery - 694835,Grocery,694835
+12/11/2020,Transportation,Survival,30.0,Quezon City,Metro Manila,National Capital Region,E2020-448,2. Transportation - 66501,Transportation,66501
+12/11/2020,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2020-449,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+12/12/2020,Clothing/Shoes/Personal Items,Optional,773.09,Quezon City,Metro Manila,National Capital Region,E2020-450,8. Clothing/Shoes/Personal Items - 60000-010,Clothing/Shoes/Personal Items,60000-010
+12/12/2020,Transportation,Survival,179.0,Quezon City,Metro Manila,National Capital Region,E2020-451,2. Transportation - 66501,Transportation,66501
+12/12/2020,Food/Drinks,Optional,165.0,Quezon City,Metro Manila,National Capital Region,E2020-452,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+12/15/2020,Food/Drinks,Survival,65.0,Quezon City,Metro Manila,National Capital Region,E2020-453,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+12/16/2020,Electricity/Water,Obligation,330.0,Quezon City,Metro Manila,National Capital Region,E2020-454,6. Electricity/Water - 65009,Electricity/Water,65009
+12/17/2020,Garbage,Obligation,20.0,Quezon City,Metro Manila,National Capital Region,E2020-455,11. Garbage - 60000-040,Garbage,60000-040
+12/18/2020,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2020-456,2. Transportation - 66501,Transportation,66501
+12/18/2020,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2020-457,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+12/18/2020,Grocery,Survival,777.05,Quezon City,Metro Manila,National Capital Region,E2020-458,4. Grocery - 694835,Grocery,694835
+12/20/2020,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2020-459,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+12/22/2020,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2020-460,7. Phone/Internet - 65009,Phone/Internet,65009
+12/22/2020,Food/Drinks,Survival,90.0,Quezon City,Metro Manila,National Capital Region,E2020-461,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+12/23/2020,Electricity/Water,Obligation,130.68,Quezon City,Metro Manila,National Capital Region,E2020-462,6. Electricity/Water - 65009,Electricity/Water,65009
+12/23/2020,Entertainment/Subscriptions,Optional,1250.0,Quezon City,Metro Manila,National Capital Region,E2020-463,13. Entertainment/Subscriptions - 60000-060,Entertainment/Subscriptions,60000-060
+12/24/2020,Garbage,Obligation,10.0,Quezon City,Metro Manila,National Capital Region,E2020-464,11. Garbage - 60000-040,Garbage,60000-040
+12/24/2020,Others,Unexpected,100.0,Quezon City,Metro Manila,National Capital Region,E2020-465,14. Others - 60000-070,Others,60000-070
+12/25/2020,Grocery,Survival,1000.0,Quezon City,Metro Manila,National Capital Region,E2020-466,4. Grocery - 694835,Grocery,694835
+12/25/2020,Magazines/Newspapers/Books,Optional,400.0,Quezon City,Metro Manila,National Capital Region,E2020-467,15. Magazines/Newspapers/Books - 60000-080,Magazines/Newspapers/Books,60000-080
+12/25/2020,Transportation,Survival,100.0,Quezon City,Metro Manila,National Capital Region,E2020-468,2. Transportation - 66501,Transportation,66501
+12/29/2020,Phone/Internet,Optional,70.0,Quezon City,Metro Manila,National Capital Region,E2020-469,7. Phone/Internet - 65009,Phone/Internet,65009
+12/29/2020,Food/Drinks,Survival,72.0,Quezon City,Metro Manila,National Capital Region,E2020-470,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+12/29/2020,Debt repayment,Obligation,1670.0,Makati City,Metro Manila,National Capital Region,E2021-1,9. Debt repayment - 60000-020,Debt repayment,60000-020
+12/29/2020,Debt repayment,Obligation,1130.0,Quezon City,Metro Manila,National Capital Region,E2021-2,9. Debt repayment - 60000-020,Debt repayment,60000-020
+12/30/2020,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2021-3,5. Home - 694835,Home,694835
+12/31/2020,Garbage,Obligation,10.0,Quezon City,Metro Manila,National Capital Region,E2021-4,11. Garbage - 60000-040,Garbage,60000-040
+1/1/2021,Apartment,Obligation,1000.0,Quezon City,Metro Manila,National Capital Region,E2021-5,16. Apartment - 694835,Apartment,694835
+1/2/2021,Phone/Internet,Obligation,90.0,Quezon City,Metro Manila,National Capital Region,E2021-6,7. Phone/Internet - 65009,Phone/Internet,65009
+1/4/2021,Food/Drinks,Survival,94.0,Quezon City,Metro Manila,National Capital Region,E2021-7,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+1/5/2021,Grocery,Survival,443.7,Quezon City,Metro Manila,National Capital Region,E2021-8,4. Grocery - 694835,Grocery,694835
+1/5/2021,Magazines/Newspapers/Books,Optional,207.75,Quezon City,Metro Manila,National Capital Region,E2021-9,15. Magazines/Newspapers/Books - 60000-080,Magazines/Newspapers/Books,60000-080
+1/5/2021,Transportation,Survival,75.0,Quezon City,Metro Manila,National Capital Region,E2021-10,2. Transportation - 66501,Transportation,66501
+1/7/2021,Garbage,Obligation,10.0,Quezon City,Metro Manila,National Capital Region,E2021-11,11. Garbage - 60000-040,Garbage,60000-040
+1/8/2021,Grocery,Survival,720.0,Quezon City,Metro Manila,National Capital Region,E2021-12,4. Grocery - 694835,Grocery,694835
+1/8/2021,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2021-13,2. Transportation - 66501,Transportation,66501
+1/8/2021,Bank fees,Obligation,15.0,Quezon City,Metro Manila,National Capital Region,E2021-14,17. Bank fees - 65009,Bank fees,65009
+1/9/2021,Phone/Internet,Optional,100.0,Quezon City,Metro Manila,National Capital Region,E2021-15,7. Phone/Internet - 65009,Phone/Internet,65009
+1/10/2021,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2021-16,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+1/12/2021,Transportation,Survival,80.0,Quezon City,Metro Manila,National Capital Region,E2021-17,2. Transportation - 66501,Transportation,66501
+1/13/2021,Electricity/Water,Obligation,500.0,Quezon City,Metro Manila,National Capital Region,E2021-18,6. Electricity/Water - 65009,Electricity/Water,65009
+1/13/2021,Food/Drinks,Survival,95.0,Quezon City,Metro Manila,National Capital Region,E2021-19,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+1/15/2021,Debt repayment,Obligation,1670.0,Makati City,Metro Manila,National Capital Region,E2021-20,9. Debt repayment - 60000-020,Debt repayment,60000-020
+1/15/2021,Grocery,Survival,792.06,Quezon City,Metro Manila,National Capital Region,E2021-21,4. Grocery - 694835,Grocery,694835
+1/15/2021,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2021-22,2. Transportation - 66501,Transportation,66501
+1/15/2021,Bank fees,Unexpected,5.0,Quezon City,Metro Manila,National Capital Region,E2021-23,17. Bank fees - 65009,Bank fees,65009
+1/16/2021,Food/Drinks,Survival,100.0,Quezon City,Metro Manila,National Capital Region,E2021-24,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+1/16/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-25,7. Phone/Internet - 65009,Phone/Internet,65009
+1/17/2021,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2021-26,5. Home - 694835,Home,694835
+1/18/2021,Phone/Internet,Unexpected,50.0,Quezon City,Metro Manila,National Capital Region,E2021-27,7. Phone/Internet - 65009,Phone/Internet,65009
+1/19/2021,Pension Fund,Obligation,1200.0,Makati City,Metro Manila,National Capital Region,E2021-28,18. Pension Fund - 63502,Pension Fund,63502
+1/21/2021,Debt repayment,Obligation,8.03,Quezon City,Metro Manila,National Capital Region,E2021-29,9. Debt repayment - 60000-020,Debt repayment,60000-020
+1/22/2021,Grocery,Survival,572.25,Quezon City,Metro Manila,National Capital Region,E2021-30,4. Grocery - 694835,Grocery,694835
+1/22/2021,Electricity/Water,Obligation,130.65,Quezon City,Metro Manila,National Capital Region,E2021-31,6. Electricity/Water - 65009,Electricity/Water,65009
+1/22/2021,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2021-32,2. Transportation - 66501,Transportation,66501
+1/23/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-33,7. Phone/Internet - 65009,Phone/Internet,65009
+1/24/2021,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2021-34,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+1/25/2021,Food/Drinks,Survival,110.0,Quezon City,Metro Manila,National Capital Region,E2021-35,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+1/27/2021,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2021-36,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+1/28/2021,Food/Drinks,Survival,140.0,Quezon City,Metro Manila,National Capital Region,E2021-37,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+1/28/2021,Garbage,Obligation,30.0,Quezon City,Metro Manila,National Capital Region,E2021-38,11. Garbage - 60000-040,Garbage,60000-040
+1/29/2021,Debt repayment,Obligation,1670.0,Makati City,Metro Manila,National Capital Region,E2021-39,9. Debt repayment - 60000-020,Debt repayment,60000-020
+1/29/2021,Debt repayment,Obligation,1130.0,Quezon City,Metro Manila,National Capital Region,E2021-40,9. Debt repayment - 60000-020,Debt repayment,60000-020
+1/29/2021,Grocery,Survival,657.3,Quezon City,Metro Manila,National Capital Region,E2021-41,4. Grocery - 694835,Grocery,694835
+1/29/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-42,7. Phone/Internet - 65009,Phone/Internet,65009
+1/29/2021,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2021-43,2. Transportation - 66501,Transportation,66501
+1/30/2021,Hair Cut,Optional,60.0,Quezon City,Metro Manila,National Capital Region,E2021-44,10. Hair Cut - 60000-030,Hair Cut,60000-030
+1/30/2021,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2021-45,2. Transportation - 66501,Transportation,66501
+1/31/2021,Apartment,Obligation,1000.0,Quezon City,Metro Manila,National Capital Region,E2021-46,16. Apartment - 694835,Apartment,694835
+2/1/2021,Food/Drinks,Survival,100.0,Quezon City,Metro Manila,National Capital Region,E2021-47,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/2/2021,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2021-48,5. Home - 694835,Home,694835
+2/3/2021,Food/Drinks,Survival,96.0,Pontevedra,Capiz,Western Visayas,E2021-49,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/3/2021,Phone/Internet,Optional,60.0,Quezon City,Metro Manila,National Capital Region,E2021-50,7. Phone/Internet - 65009,Phone/Internet,65009
+2/3/2021,Garbage,Obligation,10.0,Quezon City,Metro Manila,National Capital Region,E2021-51,11. Garbage - 60000-040,Garbage,60000-040
+2/5/2021,Grocery,Survival,361.5,Quezon City,Metro Manila,National Capital Region,E2021-52,4. Grocery - 694835,Grocery,694835
+2/5/2021,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2021-53,2. Transportation - 66501,Transportation,66501
+2/8/2021,Food/Drinks,Survival,43.0,Quezon City,Metro Manila,National Capital Region,E2021-54,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/8/2021,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2021-55,2. Transportation - 66501,Transportation,66501
+2/10/2021,Food/Drinks,Survival,190.0,Quezon City,Metro Manila,National Capital Region,E2021-56,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/10/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-57,7. Phone/Internet - 65009,Phone/Internet,65009
+2/11/2021,Garbage,Obligation,10.0,Quezon City,Metro Manila,National Capital Region,E2021-58,11. Garbage - 60000-040,Garbage,60000-040
+2/12/2021,Debt repayment,Obligation,1670.0,Makati City,Metro Manila,National Capital Region,E2021-59,9. Debt repayment - 60000-020,Debt repayment,60000-020
+2/12/2021,Grocery,Survival,379.93,Quezon City,Metro Manila,National Capital Region,E2021-60,4. Grocery - 694835,Grocery,694835
+2/12/2021,Eating/Going Out,Optional,126.0,Quezon City,Metro Manila,National Capital Region,E2021-61,3. Eating/Going Out - 66503,Eating/Going Out,66503
+2/12/2021,Eating/Going Out,Optional,92.0,Quezon City,Metro Manila,National Capital Region,E2021-62,3. Eating/Going Out - 66503,Eating/Going Out,66503
+2/12/2021,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2021-63,2. Transportation - 66501,Transportation,66501
+2/12/2021,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2021-64,2. Transportation - 66501,Transportation,66501
+2/13/2021,Bank fees,Unexpected,15.0,Quezon City,Metro Manila,National Capital Region,E2021-65,17. Bank fees - 65009,Bank fees,65009
+2/14/2021,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2021-66,5. Home - 694835,Home,694835
+2/15/2021,Pension Fund,Obligation,1200.0,Makati City,Metro Manila,National Capital Region,E2021-67,18. Pension Fund - 63502,Pension Fund,63502
+2/17/2021,Food/Drinks,Survival,76.0,Quezon City,Metro Manila,National Capital Region,E2021-68,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/18/2021,Phone/Internet,Optional,100.0,Quezon City,Metro Manila,National Capital Region,E2021-69,7. Phone/Internet - 65009,Phone/Internet,65009
+2/18/2021,Garbage,Obligation,10.0,Quezon City,Metro Manila,National Capital Region,E2021-70,11. Garbage - 60000-040,Garbage,60000-040
+2/19/2021,Grocery,Survival,328.29,Quezon City,Metro Manila,National Capital Region,E2021-71,4. Grocery - 694835,Grocery,694835
+2/19/2021,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2021-72,2. Transportation - 66501,Transportation,66501
+2/19/2021,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2021-73,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/22/2021,Electricity/Water,Obligation,130.63,Quezon City,Metro Manila,National Capital Region,E2021-74,6. Electricity/Water - 65009,Electricity/Water,65009
+2/22/2021,Food/Drinks,Survival,96.0,Quezon City,Metro Manila,National Capital Region,E2021-75,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/22/2021,Food/Drinks,Survival,30.0,Quezon City,Metro Manila,National Capital Region,E2021-76,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/24/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-77,7. Phone/Internet - 65009,Phone/Internet,65009
+2/24/2021,Food/Drinks,Survival,89.0,Quezon City,Metro Manila,National Capital Region,E2021-78,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/24/2021,Debt repayment,Obligation,1.52,Quezon City,Metro Manila,National Capital Region,E2021-79,9. Debt repayment - 60000-020,Debt repayment,60000-020
+2/25/2021,Food/Drinks,Obligation,32.0,Quezon City,Metro Manila,National Capital Region,E2021-80,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/26/2021,Debt repayment,Obligation,1670.0,Makati City,Metro Manila,National Capital Region,E2021-81,9. Debt repayment - 60000-020,Debt repayment,60000-020
+2/26/2021,Grocery,Survival,669.53,Quezon City,Metro Manila,National Capital Region,E2021-82,4. Grocery - 694835,Grocery,694835
+2/26/2021,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2021-83,2. Transportation - 66501,Transportation,66501
+2/26/2021,Bank fees,Obligation,15.0,Quezon City,Metro Manila,National Capital Region,E2021-84,17. Bank fees - 65009,Bank fees,65009
+2/27/2021,Home,Obligation,3200.0,Pontevedra,Capiz,Western Visayas,E2021-85,5. Home - 694835,Home,694835
+2/27/2021,Food/Drinks,Survival,99.0,Quezon City,Metro Manila,National Capital Region,E2021-86,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+2/28/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-87,7. Phone/Internet - 65009,Phone/Internet,65009
+3/1/2021,Debt repayment,Obligation,1130.0,Quezon City,Metro Manila,National Capital Region,E2021-88,9. Debt repayment - 60000-020,Debt repayment,60000-020
+3/2/2021,Apartment,Obligation,1000.0,Quezon City,Metro Manila,National Capital Region,E2021-89,16. Apartment - 694835,Apartment,694835
+3/3/2021,Food/Drinks,Optional,73.0,Quezon City,Metro Manila,National Capital Region,E2021-90,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+3/4/2021,Garbage,Obligation,20.0,Quezon City,Metro Manila,National Capital Region,E2021-91,11. Garbage - 60000-040,Garbage,60000-040
+3/5/2021,Grocery,Survival,654.44,Quezon City,Metro Manila,National Capital Region,E2021-92,4. Grocery - 694835,Grocery,694835
+3/5/2021,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2021-93,2. Transportation - 66501,Transportation,66501
+3/6/2021,Home,Optional,1000.0,Pontevedra,Capiz,Western Visayas,E2021-94,5. Home - 694835,Home,694835
+3/7/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-95,7. Phone/Internet - 65009,Phone/Internet,65009
+3/8/2021,Food/Drinks,Optional,23.0,Quezon City,Metro Manila,National Capital Region,E2021-96,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+3/9/2021,Grocery,Survival,638.28,Quezon City,Metro Manila,National Capital Region,E2021-97,4. Grocery - 694835,Grocery,694835
+3/9/2021,Magazines/Newspapers/Books,Optional,305.0,Quezon City,Metro Manila,National Capital Region,E2021-98,15. Magazines/Newspapers/Books - 60000-080,Magazines/Newspapers/Books,60000-080
+3/9/2021,Transportation,Survival,80.0,Quezon City,Metro Manila,National Capital Region,E2021-99,2. Transportation - 66501,Transportation,66501
+3/13/2021,Food/Drinks,Survival,128.0,Quezon City,Metro Manila,National Capital Region,E2021-100,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+3/14/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-101,7. Phone/Internet - 65009,Phone/Internet,65009
+3/15/2021,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2021-102,5. Home - 694835,Home,694835
+3/15/2021,Debt repayment,Obligation,1670.0,Makati City,Metro Manila,National Capital Region,E2021-103,9. Debt repayment - 60000-020,Debt repayment,60000-020
+3/15/2021,Pension Fund,Obligation,1300.0,Makati City,Metro Manila,National Capital Region,E2021-104,18. Pension Fund - 63502,Pension Fund,63502
+3/16/2021,Grocery,Survival,699.45,Quezon City,Metro Manila,National Capital Region,E2021-105,4. Grocery - 694835,Grocery,694835
+3/16/2021,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2021-106,2. Transportation - 66501,Transportation,66501
+3/19/2021,Food/Drinks,Optional,30.0,Quezon City,Metro Manila,National Capital Region,E2021-107,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+3/20/2021,Home,Unexpected,10000.0,Roxas City,Capiz,Western Visayas,E2021-108,5. Home - 694835,Home,694835
+3/20/2021,Electricity/Water,Obligation,510.0,Quezon City,Metro Manila,National Capital Region,E2021-109,6. Electricity/Water - 65009,Electricity/Water,65009
+3/20/2021,Food/Drinks,Survival,108.0,Quezon City,Metro Manila,National Capital Region,E2021-110,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+3/20/2021,Home,Unexpected,90.0,Roxas City,Capiz,Western Visayas,E2021-111,5. Home - 694835,Home,694835
+3/20/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-112,7. Phone/Internet - 65009,Phone/Internet,65009
+3/21/2021,Home,Unexpected,5000.0,Roxas City,Capiz,Western Visayas,E2021-113,5. Home - 694835,Home,694835
+3/22/2021,Electricity/Water,Obligation,130.63,Quezon City,Metro Manila,National Capital Region,E2021-114,6. Electricity/Water - 65009,Electricity/Water,65009
+3/22/2021,Food/Drinks,Survival,34.0,Quezon City,Metro Manila,National Capital Region,E2021-115,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+3/22/2021,Debt repayment,Obligation,18.81,Quezon City,Metro Manila,National Capital Region,E2021-116,9. Debt repayment - 60000-020,Debt repayment,60000-020
+3/23/2021,Grocery,Survival,617.83,Quezon City,Metro Manila,National Capital Region,E2021-117,4. Grocery - 694835,Grocery,694835
+3/23/2021,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2021-118,2. Transportation - 66501,Transportation,66501
+3/24/2021,Home,Unexpected,5000.0,Roxas City,Capiz,Western Visayas,E2021-119,5. Home - 694835,Home,694835
+3/28/2021,Food/Drinks,Survival,92.0,Quezon City,Metro Manila,National Capital Region,E2021-120,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+3/28/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-121,7. Phone/Internet - 65009,Phone/Internet,65009
+3/30/2021,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2021-122,5. Home - 694835,Home,694835
+3/30/2021,Debt repayment,Obligation,1670.0,Makati City,Metro Manila,National Capital Region,E2021-123,9. Debt repayment - 60000-020,Debt repayment,60000-020
+3/30/2021,Debt repayment,Obligation,1130.0,Quezon City,Metro Manila,National Capital Region,E2021-124,9. Debt repayment - 60000-020,Debt repayment,60000-020
+3/30/2021,Grocery,Survival,470.64,Quezon City,Metro Manila,National Capital Region,E2021-125,4. Grocery - 694835,Grocery,694835
+3/30/2021,Home,Obligation,300.0,Pontevedra,Capiz,Western Visayas,E2021-126,5. Home - 694835,Home,694835
+3/30/2021,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2021-127,2. Transportation - 66501,Transportation,66501
+3/30/2021,Bank fees,Optional,15.0,Quezon City,Metro Manila,National Capital Region,E2021-128,17. Bank fees - 65009,Bank fees,65009
+3/31/2021,Food/Drinks,Survival,95.0,Quezon City,Metro Manila,National Capital Region,E2021-129,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+4/3/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-130,7. Phone/Internet - 65009,Phone/Internet,65009
+4/3/2021,Food/Drinks,Survival,80.0,Quezon City,Metro Manila,National Capital Region,E2021-131,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+4/4/2021,Food/Drinks,Optional,49.0,Quezon City,Metro Manila,National Capital Region,E2021-132,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+4/5/2021,Others,Unexpected,2000.0,Pontevedra,Capiz,Western Visayas,E2021-133,14. Others - 60000-070,Others,60000-070
+4/6/2021,Grocery,Survival,593.04,Quezon City,Metro Manila,National Capital Region,E2021-134,4. Grocery - 694835,Grocery,694835
+4/6/2021,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2021-135,2. Transportation - 66501,Transportation,66501
+4/7/2021,Home,Unexpected,3000.0,Roxas City,Capiz,Western Visayas,E2021-136,5. Home - 694835,Home,694835
+4/7/2021,Apartment,Obligation,1000.0,Quezon City,Metro Manila,National Capital Region,E2021-137,16. Apartment - 694835,Apartment,694835
+4/7/2021,Food/Drinks,Survival,119.0,Quezon City,Metro Manila,National Capital Region,E2021-138,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+4/13/2021,Grocery,Survival,477.2,Quezon City,Metro Manila,National Capital Region,E2021-139,4. Grocery - 694835,Grocery,694835
+4/13/2021,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2021-140,2. Transportation - 66501,Transportation,66501
+4/14/2021,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2021-141,5. Home - 694835,Home,694835
+4/14/2021,Debt repayment,Obligation,1670.0,Makati City,Metro Manila,National Capital Region,E2021-142,9. Debt repayment - 60000-020,Debt repayment,60000-020
+4/14/2021,Pension Fund,Obligation,1300.0,Makati City,Metro Manila,National Capital Region,E2021-143,18. Pension Fund - 63502,Pension Fund,63502
+4/15/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-144,7. Phone/Internet - 65009,Phone/Internet,65009
+4/15/2021,Garbage,Obligation,10.0,Quezon City,Metro Manila,National Capital Region,E2021-145,11. Garbage - 60000-040,Garbage,60000-040
+4/17/2021,Food/Drinks,Survival,117.0,Quezon City,Metro Manila,National Capital Region,E2021-146,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+4/17/2021,Food/Drinks,Survival,10.0,Quezon City,Metro Manila,National Capital Region,E2021-147,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+4/19/2021,Food/Drinks,Survival,44.0,Quezon City,Metro Manila,National Capital Region,E2021-148,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+4/20/2021,Grocery,Survival,562.88,Quezon City,Metro Manila,National Capital Region,E2021-149,4. Grocery - 694835,Grocery,694835
+4/20/2021,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2021-150,2. Transportation - 66501,Transportation,66501
+4/20/2021,Debt repayment,Obligation,15.2,Quezon City,Metro Manila,National Capital Region,E2021-151,9. Debt repayment - 60000-020,Debt repayment,60000-020
+4/21/2021,Food/Drinks,Survival,95.0,Quezon City,Metro Manila,National Capital Region,E2021-152,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+4/21/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-153,7. Phone/Internet - 65009,Phone/Internet,65009
+4/24/2021,Food/Drinks,Survival,90.0,Quezon City,Metro Manila,National Capital Region,E2021-154,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+4/24/2021,Food/Drinks,Optional,24.0,Quezon City,Metro Manila,National Capital Region,E2021-155,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+4/25/2021,Electricity/Water,Obligation,415.5,Quezon City,Metro Manila,National Capital Region,E2021-156,6. Electricity/Water - 65009,Electricity/Water,65009
+4/26/2021,Electricity/Water,Obligation,130.61,Quezon City,Metro Manila,National Capital Region,E2021-157,6. Electricity/Water - 65009,Electricity/Water,65009
+4/27/2021,Grocery,Survival,625.3,Quezon City,Metro Manila,National Capital Region,E2021-158,4. Grocery - 694835,Grocery,694835
+4/27/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-159,7. Phone/Internet - 65009,Phone/Internet,65009
+4/27/2021,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2021-160,2. Transportation - 66501,Transportation,66501
+4/30/2021,Grocery,Survival,255.15,Quezon City,Metro Manila,National Capital Region,E2021-161,4. Grocery - 694835,Grocery,694835
+4/30/2021,Home,Obligation,200.0,Quezon City,Metro Manila,National Capital Region,E2021-162,5. Home - 694835,Home,694835
+4/30/2021,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2021-163,2. Transportation - 66501,Transportation,66501
+5/1/2021,Debt repayment,Obligation,1130.0,Quezon City,Metro Manila,National Capital Region,E2021-164,9. Debt repayment - 60000-020,Debt repayment,60000-020
+5/2/2021,Food/Drinks,Survival,71.0,Quezon City,Metro Manila,National Capital Region,E2021-165,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+5/2/2021,Food/Drinks,Optional,10.0,Quezon City,Metro Manila,National Capital Region,E2021-166,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+5/3/2021,Debt repayment,Obligation,1670.0,Makati City,Metro Manila,National Capital Region,E2021-167,9. Debt repayment - 60000-020,Debt repayment,60000-020
+5/4/2021,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2021-168,5. Home - 694835,Home,694835
+5/4/2021,Grocery,Survival,508.23,Quezon City,Metro Manila,National Capital Region,E2021-169,4. Grocery - 694835,Grocery,694835
+5/4/2021,Clothing/Shoes/Personal Items,Optional,212.77,Quezon City,Metro Manila,National Capital Region,E2021-170,8. Clothing/Shoes/Personal Items - 60000-010,Clothing/Shoes/Personal Items,60000-010
+5/4/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-171,7. Phone/Internet - 65009,Phone/Internet,65009
+5/4/2021,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2021-172,2. Transportation - 66501,Transportation,66501
+5/5/2021,Clothing/Shoes/Personal Items,Optional,931.68,Quezon City,Metro Manila,National Capital Region,E2021-173,8. Clothing/Shoes/Personal Items - 60000-010,Clothing/Shoes/Personal Items,60000-010
+5/6/2021,Food/Drinks,Survival,90.0,Quezon City,Metro Manila,National Capital Region,E2021-174,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+5/6/2021,Food/Drinks,Optional,10.0,Quezon City,Metro Manila,National Capital Region,E2021-175,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+5/7/2021,Grocery,Survival,280.06,Quezon City,Metro Manila,National Capital Region,E2021-176,4. Grocery - 694835,Grocery,694835
+5/7/2021,Clothing/Shoes/Personal Items,Optional,105.99,Quezon City,Metro Manila,National Capital Region,E2021-177,8. Clothing/Shoes/Personal Items - 60000-010,Clothing/Shoes/Personal Items,60000-010
+5/7/2021,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2021-178,2. Transportation - 66501,Transportation,66501
+5/8/2021,Apartment,Obligation,1000.0,Quezon City,Metro Manila,National Capital Region,E2021-179,16. Apartment - 694835,Apartment,694835
+5/9/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-180,7. Phone/Internet - 65009,Phone/Internet,65009
+5/10/2021,Food/Drinks,Survival,48.0,Quezon City,Metro Manila,National Capital Region,E2021-181,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+5/11/2021,Grocery,Survival,449.5,Quezon City,Metro Manila,National Capital Region,E2021-182,4. Grocery - 694835,Grocery,694835
+5/11/2021,Transportation,Survival,20.0,Quezon City,Metro Manila,National Capital Region,E2021-183,2. Transportation - 66501,Transportation,66501
+5/12/2021,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2021-184,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+5/15/2021,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2021-185,5. Home - 694835,Home,694835
+5/15/2021,Pension Fund,Obligation,650.0,Makati City,Metro Manila,National Capital Region,E2021-186,18. Pension Fund - 63502,Pension Fund,63502
+5/15/2021,Grocery,Survival,408.29,Quezon City,Metro Manila,National Capital Region,E2021-187,4. Grocery - 694835,Grocery,694835
+5/15/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-188,7. Phone/Internet - 65009,Phone/Internet,65009
+5/15/2021,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2021-189,2. Transportation - 66501,Transportation,66501
+5/16/2021,Debt repayment,Obligation,1670.0,Makati City,Metro Manila,National Capital Region,E2021-190,9. Debt repayment - 60000-020,Debt repayment,60000-020
+5/18/2021,Grocery,Survival,339.95,Quezon City,Metro Manila,National Capital Region,E2021-191,4. Grocery - 694835,Grocery,694835
+5/18/2021,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2021-192,2. Transportation - 66501,Transportation,66501
+5/20/2021,Food/Drinks,Optional,23.0,Quezon City,Metro Manila,National Capital Region,E2021-193,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+5/20/2021,Debt repayment,Obligation,3.92,Quezon City,Metro Manila,National Capital Region,E2021-194,9. Debt repayment - 60000-020,Debt repayment,60000-020
+5/22/2021,Grocery,Survival,195.29,Quezon City,Metro Manila,National Capital Region,E2021-195,4. Grocery - 694835,Grocery,694835
+5/22/2021,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2021-196,2. Transportation - 66501,Transportation,66501
+5/23/2021,Electricity/Water,Obligation,420.0,Quezon City,Metro Manila,National Capital Region,E2021-197,6. Electricity/Water - 65009,Electricity/Water,65009
+5/24/2021,Food/Drinks,Optional,100.0,Quezon City,Metro Manila,National Capital Region,E2021-198,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+5/24/2021,Hair Cut,Optional,70.0,Quezon City,Metro Manila,National Capital Region,E2021-199,10. Hair Cut - 60000-030,Hair Cut,60000-030
+5/24/2021,Transportation,Survival,20.0,Quezon City,Metro Manila,National Capital Region,E2021-200,2. Transportation - 66501,Transportation,66501
+5/25/2021,Grocery,Survival,399.49,Quezon City,Metro Manila,National Capital Region,E2021-201,4. Grocery - 694835,Grocery,694835
+5/25/2021,Transportation,Survival,20.0,Quezon City,Metro Manila,National Capital Region,E2021-202,2. Transportation - 66501,Transportation,66501
+5/26/2021,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2021-203,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+5/27/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-204,7. Phone/Internet - 65009,Phone/Internet,65009
+5/27/2021,Garbage,Obligation,10.0,Quezon City,Metro Manila,National Capital Region,E2021-205,11. Garbage - 60000-040,Garbage,60000-040
+5/28/2021,Phone/Internet,Unexpected,100.0,Quezon City,Metro Manila,National Capital Region,E2021-206,7. Phone/Internet - 65009,Phone/Internet,65009
+5/28/2021,Food/Drinks,Optional,30.0,Quezon City,Metro Manila,National Capital Region,E2021-207,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+5/29/2021,Grocery,Survival,164.87,Quezon City,Metro Manila,National Capital Region,E2021-208,4. Grocery - 694835,Grocery,694835
+5/29/2021,Transportation,Survival,20.0,Quezon City,Metro Manila,National Capital Region,E2021-209,2. Transportation - 66501,Transportation,66501
+5/30/2021,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2021-210,5. Home - 694835,Home,694835
+5/30/2021,Debt repayment,Obligation,1670.0,Makati City,Metro Manila,National Capital Region,E2021-211,9. Debt repayment - 60000-020,Debt repayment,60000-020
+5/31/2021,Home,Obligation,300.0,Quezon City,Metro Manila,National Capital Region,E2021-212,5. Home - 694835,Home,694835
+5/31/2021,Food/Drinks,Survival,50.0,Quezon City,Metro Manila,National Capital Region,E2021-213,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+5/31/2021,Bank fees,Unexpected,15.0,Quezon City,Metro Manila,National Capital Region,E2021-214,17. Bank fees - 65009,Bank fees,65009
+6/1/2021,Debt repayment,Obligation,1130.0,Quezon City,Metro Manila,National Capital Region,E2021-215,9. Debt repayment - 60000-020,Debt repayment,60000-020
+6/1/2021,Grocery,Survival,749.3,Quezon City,Metro Manila,National Capital Region,E2021-216,4. Grocery - 694835,Grocery,694835
+6/1/2021,Transportation,Survival,20.0,Quezon City,Metro Manila,National Capital Region,E2021-217,2. Transportation - 66501,Transportation,66501
+6/2/2021,Electricity/Water,Obligation,130.61,Quezon City,Metro Manila,National Capital Region,E2021-218,6. Electricity/Water - 65009,Electricity/Water,65009
+6/2/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-219,7. Phone/Internet - 65009,Phone/Internet,65009
+6/3/2021,Garbage,Obligation,15.0,Quezon City,Metro Manila,National Capital Region,E2021-220,11. Garbage - 60000-040,Garbage,60000-040
+6/3/2021,Food/Drinks,Optional,10.0,Quezon City,Metro Manila,National Capital Region,E2021-221,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+6/3/2021,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2021-222,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+6/4/2021,Apartment,Obligation,1000.0,Quezon City,Metro Manila,National Capital Region,E2021-223,16. Apartment - 694835,Apartment,694835
+6/5/2021,Grocery,Survival,207.0,Quezon City,Metro Manila,National Capital Region,E2021-224,4. Grocery - 694835,Grocery,694835
+6/5/2021,Transportation,Survival,20.0,Quezon City,Metro Manila,National Capital Region,E2021-225,2. Transportation - 66501,Transportation,66501
+6/8/2021,Grocery,Survival,368.94,Quezon City,Metro Manila,National Capital Region,E2021-226,4. Grocery - 694835,Grocery,694835
+6/8/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-227,7. Phone/Internet - 65009,Phone/Internet,65009
+6/8/2021,Transportation,Survival,20.0,Quezon City,Metro Manila,National Capital Region,E2021-228,2. Transportation - 66501,Transportation,66501
+6/9/2021,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2021-229,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+6/12/2021,Grocery,Survival,373.7,Quezon City,Metro Manila,National Capital Region,E2021-230,4. Grocery - 694835,Grocery,694835
+6/12/2021,Transportation,Survival,20.0,Quezon City,Metro Manila,National Capital Region,E2021-231,2. Transportation - 66501,Transportation,66501
+6/15/2021,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2021-232,5. Home - 694835,Home,694835
+6/15/2021,Debt repayment,Obligation,1670.0,Makati City,Metro Manila,National Capital Region,E2021-233,9. Debt repayment - 60000-020,Debt repayment,60000-020
+6/15/2021,Pension Fund,Obligation,650.0,Makati City,Metro Manila,National Capital Region,E2021-234,18. Pension Fund - 63502,Pension Fund,63502
+6/15/2021,Grocery,Survival,284.77,Quezon City,Metro Manila,National Capital Region,E2021-235,4. Grocery - 694835,Grocery,694835
+6/15/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-236,7. Phone/Internet - 65009,Phone/Internet,65009
+6/15/2021,Transportation,Survival,20.0,Quezon City,Metro Manila,National Capital Region,E2021-237,2. Transportation - 66501,Transportation,66501
+6/16/2021,Personal care items (drugstore),Survival,212.5,Quezon City,Metro Manila,National Capital Region,E2021-238,12. Personal care items (drugstore) - 60000-050,Personal care items (drugstore),60000-050
+6/16/2021,Others,Unexpected,104.0,Quezon City,Metro Manila,National Capital Region,E2021-239,14. Others - 60000-070,Others,60000-070
+6/16/2021,Grocery,Survival,104.0,Quezon City,Metro Manila,National Capital Region,E2021-240,4. Grocery - 694835,Grocery,694835
+6/16/2021,Transportation,Survival,85.0,Quezon City,Metro Manila,National Capital Region,E2021-241,2. Transportation - 66501,Transportation,66501
+6/17/2021,Garbage,Obligation,10.0,Quezon City,Metro Manila,National Capital Region,E2021-242,11. Garbage - 60000-040,Garbage,60000-040
+6/17/2021,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2021-243,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+6/19/2021,Electricity/Water,Obligation,385.0,Quezon City,Metro Manila,National Capital Region,E2021-244,6. Electricity/Water - 65009,Electricity/Water,65009
+6/19/2021,Grocery,Survival,358.0,Quezon City,Metro Manila,National Capital Region,E2021-245,4. Grocery - 694835,Grocery,694835
+6/19/2021,Transportation,Survival,20.0,Quezon City,Metro Manila,National Capital Region,E2021-246,2. Transportation - 66501,Transportation,66501
+6/20/2021,Debt repayment,Obligation,17.3,Quezon City,Metro Manila,National Capital Region,E2021-247,9. Debt repayment - 60000-020,Debt repayment,60000-020
+6/22/2021,Grocery,Survival,420.51,Quezon City,Metro Manila,National Capital Region,E2021-248,4. Grocery - 694835,Grocery,694835
+6/22/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-249,7. Phone/Internet - 65009,Phone/Internet,65009
+6/22/2021,Transportation,Survival,20.0,Quezon City,Metro Manila,National Capital Region,E2021-250,2. Transportation - 66501,Transportation,66501
+6/23/2021,Electricity/Water,Obligation,130.61,Quezon City,Metro Manila,National Capital Region,E2021-251,6. Electricity/Water - 65009,Electricity/Water,65009
+6/24/2021,Food/Drinks,Optional,20.0,Quezon City,Metro Manila,National Capital Region,E2021-252,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+6/25/2021,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2021-253,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+6/26/2021,Grocery,Survival,412.0,Quezon City,Metro Manila,National Capital Region,E2021-254,4. Grocery - 694835,Grocery,694835
+6/26/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-255,7. Phone/Internet - 65009,Phone/Internet,65009
+6/26/2021,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2021-256,2. Transportation - 66501,Transportation,66501
+6/29/2021,Apartment,Obligation,1000.0,Quezon City,Metro Manila,National Capital Region,E2021-257,16. Apartment - 694835,Apartment,694835
+6/29/2021,Grocery,Survival,433.85,Quezon City,Metro Manila,National Capital Region,E2021-258,4. Grocery - 694835,Grocery,694835
+6/29/2021,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2021-259,2. Transportation - 66501,Transportation,66501
+6/30/2021,Home,Optional,5000.0,Pontevedra,Capiz,Western Visayas,E2021-260,5. Home - 694835,Home,694835
+6/30/2021,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2021-261,5. Home - 694835,Home,694835
+6/30/2021,Debt repayment,Obligation,2800.0,Makati City,Metro Manila,National Capital Region,E2021-262,9. Debt repayment - 60000-020,Debt repayment,60000-020
+6/30/2021,Home,Obligation,300.0,Pontevedra,Capiz,Western Visayas,E2021-263,5. Home - 694835,Home,694835
+6/30/2021,Hair Cut,Survival,255.15,Quezon City,Metro Manila,National Capital Region,E2021-264,10. Hair Cut - 60000-030,Hair Cut,60000-030
+6/30/2021,Food/Drinks,Survival,65.0,Quezon City,Metro Manila,National Capital Region,E2021-265,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+6/30/2021,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2021-266,2. Transportation - 66501,Transportation,66501
+7/1/2021,Food/Drinks,Optional,23.0,Quezon City,Metro Manila,National Capital Region,E2021-267,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/2/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-268,7. Phone/Internet - 65009,Phone/Internet,65009
+7/3/2021,Food/Drinks,Survival,162.0,Quezon City,Metro Manila,National Capital Region,E2021-269,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/4/2021,Home,Obligation,200.0,Pontevedra,Capiz,Western Visayas,E2021-270,5. Home - 694835,Home,694835
+7/5/2021,Food/Drinks,Survival,64.0,Quezon City,Metro Manila,National Capital Region,E2021-271,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/6/2021,Grocery,Survival,662.12,Quezon City,Metro Manila,National Capital Region,E2021-272,4. Grocery - 694835,Grocery,694835
+7/6/2021,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2021-273,2. Transportation - 66501,Transportation,66501
+7/8/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-274,7. Phone/Internet - 65009,Phone/Internet,65009
+7/8/2021,Garbage,Obligation,10.0,Quezon City,Metro Manila,National Capital Region,E2021-275,11. Garbage - 60000-040,Garbage,60000-040
+7/8/2021,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2021-276,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/9/2021,Food/Drinks,Survival,164.0,Quezon City,Metro Manila,National Capital Region,E2021-277,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/11/2021,Food/Drinks,Survival,94.0,Quezon City,Metro Manila,National Capital Region,E2021-278,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/11/2021,Food/Drinks,Optional,23.0,Quezon City,Metro Manila,National Capital Region,E2021-279,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/12/2021,Bank fees,Obligation,25.0,Quezon City,Metro Manila,National Capital Region,E2021-280,17. Bank fees - 65009,Bank fees,65009
+7/13/2021,Grocery,Survival,498.3,Quezon City,Metro Manila,National Capital Region,E2021-281,4. Grocery - 694835,Grocery,694835
+7/13/2021,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2021-282,2. Transportation - 66501,Transportation,66501
+7/14/2021,Magazines/Newspapers/Books,Optional,435.0,Quezon City,Metro Manila,National Capital Region,E2021-283,15. Magazines/Newspapers/Books - 60000-080,Magazines/Newspapers/Books,60000-080
+7/14/2021,Transportation,Survival,111.0,Quezon City,Metro Manila,National Capital Region,E2021-284,2. Transportation - 66501,Transportation,66501
+7/14/2021,Food/Drinks,Optional,110.0,Quezon City,Metro Manila,National Capital Region,E2021-285,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/14/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-286,7. Phone/Internet - 65009,Phone/Internet,65009
+7/14/2021,Food/Drinks,Survival,18.0,Quezon City,Metro Manila,National Capital Region,E2021-287,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/15/2021,Home,Optional,5000.0,Pontevedra,Capiz,Western Visayas,E2021-288,5. Home - 694835,Home,694835
+7/15/2021,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2021-289,5. Home - 694835,Home,694835
+7/15/2021,Debt repayment,Obligation,1670.0,Makati City,Metro Manila,National Capital Region,E2021-290,9. Debt repayment - 60000-020,Debt repayment,60000-020
+7/15/2021,Pension Fund,Obligation,1300.0,Makati City,Metro Manila,National Capital Region,E2021-291,18. Pension Fund - 63502,Pension Fund,63502
+7/16/2021,Food/Drinks,Survival,165.0,Quezon City,Metro Manila,National Capital Region,E2021-292,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/18/2021,Personal care items (drugstore),Survival,700.0,Quezon City,Metro Manila,National Capital Region,E2021-293,12. Personal care items (drugstore) - 60000-050,Personal care items (drugstore),60000-050
+7/18/2021,Electricity/Water,Obligation,368.0,Quezon City,Metro Manila,National Capital Region,E2021-294,6. Electricity/Water - 65009,Electricity/Water,65009
+7/18/2021,Food/Drinks,Survival,109.0,Quezon City,Metro Manila,National Capital Region,E2021-295,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/18/2021,Bank fees,Unexpected,30.0,Quezon City,Metro Manila,National Capital Region,E2021-296,17. Bank fees - 65009,Bank fees,65009
+7/19/2021,Food/Drinks,Optional,30.0,Quezon City,Metro Manila,National Capital Region,E2021-297,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/20/2021,Grocery,Survival,745.74,Quezon City,Metro Manila,National Capital Region,E2021-298,4. Grocery - 694835,Grocery,694835
+7/20/2021,Transportation,Survival,55.0,Quezon City,Metro Manila,National Capital Region,E2021-299,2. Transportation - 66501,Transportation,66501
+7/21/2021,Debt repayment,Obligation,5.04,Quezon City,Metro Manila,National Capital Region,E2021-300,9. Debt repayment - 60000-020,Debt repayment,60000-020
+7/23/2021,Food/Drinks,Survival,93.0,Quezon City,Metro Manila,National Capital Region,E2021-301,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/27/2021,Grocery,Survival,521.9,Quezon City,Metro Manila,National Capital Region,E2021-302,4. Grocery - 694835,Grocery,694835
+7/27/2021,Personal care items (drugstore),Survival,221.5,Quezon City,Metro Manila,National Capital Region,E2021-303,12. Personal care items (drugstore) - 60000-050,Personal care items (drugstore),60000-050
+7/27/2021,Food/Drinks,Survival,100.0,Quezon City,Metro Manila,National Capital Region,E2021-304,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/27/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-305,7. Phone/Internet - 65009,Phone/Internet,65009
+7/27/2021,Hair Cut,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2021-306,10. Hair Cut - 60000-030,Hair Cut,60000-030
+7/27/2021,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2021-307,2. Transportation - 66501,Transportation,66501
+7/27/2021,Bank fees,Obligation,25.0,Quezon City,Metro Manila,National Capital Region,E2021-308,17. Bank fees - 65009,Bank fees,65009
+7/28/2021,Electricity/Water,Obligation,130.61,Quezon City,Metro Manila,National Capital Region,E2021-309,6. Electricity/Water - 65009,Electricity/Water,65009
+7/29/2021,Apartment,Obligation,1000.0,Quezon City,Metro Manila,National Capital Region,E2021-310,16. Apartment - 694835,Apartment,694835
+7/30/2021,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2021-311,5. Home - 694835,Home,694835
+7/30/2021,Debt repayment,Obligation,2800.0,Makati City,Metro Manila,National Capital Region,E2021-312,9. Debt repayment - 60000-020,Debt repayment,60000-020
+7/31/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-313,7. Phone/Internet - 65009,Phone/Internet,65009
+8/2/2021,Phone/Internet,Optional,99.0,Quezon City,Metro Manila,National Capital Region,E2021-314,7. Phone/Internet - 65009,Phone/Internet,65009
+8/4/2021,Grocery,Survival,639.05,Quezon City,Metro Manila,National Capital Region,E2021-315,4. Grocery - 694835,Grocery,694835
+8/4/2021,Home,Obligation,300.0,Quezon City,Metro Manila,National Capital Region,E2021-316,5. Home - 694835,Home,694835
+8/4/2021,Transportation,Survival,55.0,Quezon City,Metro Manila,National Capital Region,E2021-317,2. Transportation - 66501,Transportation,66501
+8/6/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-318,7. Phone/Internet - 65009,Phone/Internet,65009
+8/8/2021,Food/Drinks,Survival,74.0,Quezon City,Metro Manila,National Capital Region,E2021-319,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+8/10/2021,Grocery,Survival,731.25,Quezon City,Metro Manila,National Capital Region,E2021-320,4. Grocery - 694835,Grocery,694835
+8/10/2021,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2021-321,2. Transportation - 66501,Transportation,66501
+8/11/2021,Electricity/Water,Obligation,376.5,Quezon City,Metro Manila,National Capital Region,E2021-322,6. Electricity/Water - 65009,Electricity/Water,65009
+8/12/2021,Garbage,Obligation,10.0,Quezon City,Metro Manila,National Capital Region,E2021-323,11. Garbage - 60000-040,Garbage,60000-040
+8/12/2021,Food/Drinks,Survival,10.0,Quezon City,Metro Manila,National Capital Region,E2021-324,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+8/13/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-325,7. Phone/Internet - 65009,Phone/Internet,65009
+8/14/2021,Debt repayment,Obligation,1670.0,Makati City,Metro Manila,National Capital Region,E2021-326,9. Debt repayment - 60000-020,Debt repayment,60000-020
+8/14/2021,Bank fees,Obligation,10.0,Quezon City,Metro Manila,National Capital Region,E2021-327,17. Bank fees - 65009,Bank fees,65009
+8/15/2021,Home,Optional,5000.0,Pontevedra,Capiz,Western Visayas,E2021-328,5. Home - 694835,Home,694835
+8/15/2021,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2021-329,5. Home - 694835,Home,694835
+8/15/2021,Food/Drinks,Survival,143.0,Quezon City,Metro Manila,National Capital Region,E2021-330,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+8/17/2021,Grocery,Survival,603.0,Quezon City,Metro Manila,National Capital Region,E2021-331,4. Grocery - 694835,Grocery,694835
+8/17/2021,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2021-332,2. Transportation - 66501,Transportation,66501
+8/18/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-333,7. Phone/Internet - 65009,Phone/Internet,65009
+8/19/2021,Pension Fund,Obligation,1300.0,Makati City,Metro Manila,National Capital Region,E2021-334,18. Pension Fund - 63502,Pension Fund,63502
+8/20/2021,Debt repayment,Obligation,9.05,Quezon City,Metro Manila,National Capital Region,E2021-335,9. Debt repayment - 60000-020,Debt repayment,60000-020
+8/22/2021,Food/Drinks,Survival,150.0,Quezon City,Metro Manila,National Capital Region,E2021-336,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+8/24/2021,Grocery,Survival,409.4,Quezon City,Metro Manila,National Capital Region,E2021-337,4. Grocery - 694835,Grocery,694835
+8/24/2021,Food/Drinks,Survival,65.0,Quezon City,Metro Manila,National Capital Region,E2021-338,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+8/24/2021,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2021-339,2. Transportation - 66501,Transportation,66501
+8/25/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-340,7. Phone/Internet - 65009,Phone/Internet,65009
+8/27/2021,Electricity/Water,Obligation,130.61,Quezon City,Metro Manila,National Capital Region,E2021-341,6. Electricity/Water - 65009,Electricity/Water,65009
+8/28/2021,Home,Optional,5000.0,Pontevedra,Capiz,Western Visayas,E2021-342,5. Home - 694835,Home,694835
+8/28/2021,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2021-343,5. Home - 694835,Home,694835
+8/28/2021,Apartment,Obligation,3000.0,Quezon City,Metro Manila,National Capital Region,E2021-344,16. Apartment - 694835,Apartment,694835
+8/28/2021,Debt repayment,Obligation,2800.0,Makati City,Metro Manila,National Capital Region,E2021-345,9. Debt repayment - 60000-020,Debt repayment,60000-020
+8/28/2021,Bank fees,Obligation,10.0,Quezon City,Metro Manila,National Capital Region,E2021-346,17. Bank fees - 65009,Bank fees,65009
+8/29/2021,Food/Drinks,Survival,43.0,Quezon City,Metro Manila,National Capital Region,E2021-347,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+8/30/2021,Grocery,Survival,500.6,Quezon City,Metro Manila,National Capital Region,E2021-348,4. Grocery - 694835,Grocery,694835
+8/30/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-349,7. Phone/Internet - 65009,Phone/Internet,65009
+8/30/2021,Transportation,Survival,55.0,Quezon City,Metro Manila,National Capital Region,E2021-350,2. Transportation - 66501,Transportation,66501
+9/2/2021,Garbage,Obligation,10.0,Quezon City,Metro Manila,National Capital Region,E2021-351,11. Garbage - 60000-040,Garbage,60000-040
+9/2/2021,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2021-352,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/4/2021,Apartment,Obligation,3000.0,Quezon City,Metro Manila,National Capital Region,E2021-353,16. Apartment - 694835,Apartment,694835
+9/4/2021,Home,Obligation,300.0,Quezon City,Metro Manila,National Capital Region,E2021-354,5. Home - 694835,Home,694835
+9/5/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-355,7. Phone/Internet - 65009,Phone/Internet,65009
+9/5/2021,Food/Drinks,Survival,60.0,Quezon City,Metro Manila,National Capital Region,E2021-356,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/6/2021,Food/Drinks,Survival,118.0,Quezon City,Metro Manila,National Capital Region,E2021-357,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/7/2021,Grocery,Survival,561.81,Quezon City,Metro Manila,National Capital Region,E2021-358,4. Grocery - 694835,Grocery,694835
+9/7/2021,Transportation,Survival,55.0,Quezon City,Metro Manila,National Capital Region,E2021-359,2. Transportation - 66501,Transportation,66501
+9/7/2021,Food/Drinks,Survival,23.0,Quezon City,Metro Manila,National Capital Region,E2021-360,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/8/2021,Food/Drinks,Survival,27.0,Quezon City,Metro Manila,National Capital Region,E2021-361,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/9/2021,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2021-362,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/10/2021,Food/Drinks,Survival,128.0,Quezon City,Metro Manila,National Capital Region,E2021-363,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/11/2021,Home,Optional,100.0,Quezon City,Metro Manila,National Capital Region,E2021-364,5. Home - 694835,Home,694835
+9/12/2021,Food/Drinks,Survival,96.0,Quezon City,Metro Manila,National Capital Region,E2021-365,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/12/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-366,7. Phone/Internet - 65009,Phone/Internet,65009
+9/14/2021,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2021-367,5. Home - 694835,Home,694835
+9/14/2021,Debt repayment,Obligation,1670.0,Makati City,Metro Manila,National Capital Region,E2021-368,9. Debt repayment - 60000-020,Debt repayment,60000-020
+9/14/2021,Pension Fund,Obligation,1300.0,Makati City,Metro Manila,National Capital Region,E2021-369,18. Pension Fund - 63502,Pension Fund,63502
+9/14/2021,Bank fees,Obligation,10.0,Quezon City,Metro Manila,National Capital Region,E2021-370,17. Bank fees - 65009,Bank fees,65009
+9/15/2021,Grocery,Survival,419.51,Quezon City,Metro Manila,National Capital Region,E2021-371,4. Grocery - 694835,Grocery,694835
+9/15/2021,Phone/Internet,Optional,199.0,Quezon City,Metro Manila,National Capital Region,E2021-372,7. Phone/Internet - 65009,Phone/Internet,65009
+9/16/2021,Garbage,Obligation,10.0,Quezon City,Metro Manila,National Capital Region,E2021-373,11. Garbage - 60000-040,Garbage,60000-040
+9/17/2021,Electricity/Water,Obligation,400.0,Quezon City,Metro Manila,National Capital Region,E2021-374,6. Electricity/Water - 65009,Electricity/Water,65009
+9/18/2021,Food/Drinks,Survival,267.0,Quezon City,Metro Manila,National Capital Region,E2021-375,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/18/2021,Transportation,Survival,55.0,Quezon City,Metro Manila,National Capital Region,E2021-376,2. Transportation - 66501,Transportation,66501
+9/20/2021,Food/Drinks,Survival,88.0,Quezon City,Metro Manila,National Capital Region,E2021-377,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/20/2021,Debt repayment,Obligation,4.86,Quezon City,Metro Manila,National Capital Region,E2021-378,9. Debt repayment - 60000-020,Debt repayment,60000-020
+9/21/2021,Grocery,Survival,713.67,Quezon City,Metro Manila,National Capital Region,E2021-379,4. Grocery - 694835,Grocery,694835
+9/21/2021,Transportation,Survival,55.0,Quezon City,Metro Manila,National Capital Region,E2021-380,2. Transportation - 66501,Transportation,66501
+9/22/2021,Phone/Internet,Optional,199.0,Quezon City,Metro Manila,National Capital Region,E2021-381,7. Phone/Internet - 65009,Phone/Internet,65009
+9/24/2021,Grocery,Survival,429.4,Quezon City,Metro Manila,National Capital Region,E2021-382,4. Grocery - 694835,Grocery,694835
+9/24/2021,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2021-383,2. Transportation - 66501,Transportation,66501
+9/25/2021,Home,Unexpected,125.0,Pontevedra,Capiz,Western Visayas,E2021-384,5. Home - 694835,Home,694835
+9/26/2021,Electricity/Water,Obligation,130.61,Quezon City,Metro Manila,National Capital Region,E2021-385,6. Electricity/Water - 65009,Electricity/Water,65009
+9/27/2021,Healthcare,Optional,2000.0,Pontevedra,Capiz,Western Visayas,E2021-386,19. Healthcare - 63502,Healthcare,63502
+9/27/2021,Phone/Internet,Unexpected,90.0,Quezon City,Metro Manila,National Capital Region,E2021-387,7. Phone/Internet - 65009,Phone/Internet,65009
+9/27/2021,Food/Drinks,Survival,89.0,Quezon City,Metro Manila,National Capital Region,E2021-388,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/28/2021,Others,Unexpected,1540.0,Quezon City,Metro Manila,National Capital Region,E2021-389,14. Others - 60000-070,Others,60000-070
+9/28/2021,Grocery,Survival,317.0,Quezon City,Metro Manila,National Capital Region,E2021-390,4. Grocery - 694835,Grocery,694835
+9/28/2021,Transportation,Survival,80.0,Quezon City,Metro Manila,National Capital Region,E2021-391,2. Transportation - 66501,Transportation,66501
+9/28/2021,Food/Drinks,Survival,20.0,Quezon City,Metro Manila,National Capital Region,E2021-392,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+9/29/2021,Home,Optional,5500.0,Pontevedra,Capiz,Western Visayas,E2021-393,5. Home - 694835,Home,694835
+9/29/2021,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2021-394,5. Home - 694835,Home,694835
+9/29/2021,Debt repayment,Obligation,2800.0,Makati City,Metro Manila,National Capital Region,E2021-395,9. Debt repayment - 60000-020,Debt repayment,60000-020
+9/30/2021,Bank fees,Obligation,600.0,Quezon City,Metro Manila,National Capital Region,E2021-396,17. Bank fees - 65009,Bank fees,65009
+9/30/2021,Grocery,Survival,401.71,Quezon City,Metro Manila,National Capital Region,E2021-397,4. Grocery - 694835,Grocery,694835
+9/30/2021,Transportation,Survival,55.0,Quezon City,Metro Manila,National Capital Region,E2021-398,2. Transportation - 66501,Transportation,66501
+9/30/2021,Bank fees,Obligation,40.0,Quezon City,Metro Manila,National Capital Region,E2021-399,17. Bank fees - 65009,Bank fees,65009
+10/1/2021,Home,Obligation,6800.0,Pontevedra,Capiz,Western Visayas,E2021-400,5. Home - 694835,Home,694835
+10/2/2021,Phone/Internet,Optional,199.0,Quezon City,Metro Manila,National Capital Region,E2021-401,7. Phone/Internet - 65009,Phone/Internet,65009
+10/3/2021,Food/Drinks,Survival,104.0,Quezon City,Metro Manila,National Capital Region,E2021-402,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+10/4/2021,Home,Obligation,2500.0,Pontevedra,Capiz,Western Visayas,E2021-403,5. Home - 694835,Home,694835
+10/5/2021,Grocery,Survival,592.75,Quezon City,Metro Manila,National Capital Region,E2021-404,4. Grocery - 694835,Grocery,694835
+10/5/2021,Transportation,Survival,55.0,Quezon City,Metro Manila,National Capital Region,E2021-405,2. Transportation - 66501,Transportation,66501
+10/6/2021,Home,Obligation,2000.0,Pontevedra,Capiz,Western Visayas,E2021-406,5. Home - 694835,Home,694835
+10/6/2021,Home,Obligation,200.0,Quezon City,Metro Manila,National Capital Region,E2021-407,5. Home - 694835,Home,694835
+10/7/2021,Home,Obligation,15000.0,Pontevedra,Capiz,Western Visayas,E2021-408,5. Home - 694835,Home,694835
+10/7/2021,Food/Drinks,Survival,96.0,Quezon City,Metro Manila,National Capital Region,E2021-409,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+10/8/2021,Home,Obligation,1500.0,Pontevedra,Capiz,Western Visayas,E2021-410,5. Home - 694835,Home,694835
+10/8/2021,Phone/Internet,Optional,199.0,Quezon City,Metro Manila,National Capital Region,E2021-411,7. Phone/Internet - 65009,Phone/Internet,65009
+10/8/2021,Food/Drinks,Obligation,59.0,Quezon City,Metro Manila,National Capital Region,E2021-412,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+10/9/2021,Grocery,Survival,236.5,Quezon City,Metro Manila,National Capital Region,E2021-413,4. Grocery - 694835,Grocery,694835
+10/9/2021,Personal care items (drugstore),Survival,220.0,Quezon City,Metro Manila,National Capital Region,E2021-414,12. Personal care items (drugstore) - 60000-050,Personal care items (drugstore),60000-050
+10/9/2021,Transportation,Survival,55.0,Quezon City,Metro Manila,National Capital Region,E2021-415,2. Transportation - 66501,Transportation,66501
+10/9/2021,Bank fees,Obligation,18.0,Quezon City,Metro Manila,National Capital Region,E2021-416,17. Bank fees - 65009,Bank fees,65009
+10/12/2021,Home,Obligation,15000.0,Pontevedra,Capiz,Western Visayas,E2021-417,5. Home - 694835,Home,694835
+10/12/2021,Grocery,Survival,481.75,Quezon City,Metro Manila,National Capital Region,E2021-418,4. Grocery - 694835,Grocery,694835
+10/12/2021,Bank fees,Obligation,50.0,Quezon City,Metro Manila,National Capital Region,E2021-419,17. Bank fees - 65009,Bank fees,65009
+10/12/2021,Transportation,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2021-420,2. Transportation - 66501,Transportation,66501
+10/14/2021,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2021-421,5. Home - 694835,Home,694835
+10/14/2021,Debt repayment,Obligation,1670.0,Makati City,Metro Manila,National Capital Region,E2021-422,9. Debt repayment - 60000-020,Debt repayment,60000-020
+10/14/2021,Pension Fund,Obligation,1300.0,Makati City,Metro Manila,National Capital Region,E2021-423,18. Pension Fund - 63502,Pension Fund,63502
+10/14/2021,Debt repayment,Obligation,1150.0,Quezon City,Metro Manila,National Capital Region,E2021-424,9. Debt repayment - 60000-020,Debt repayment,60000-020
+10/14/2021,Garbage,Obligation,10.0,Quezon City,Metro Manila,National Capital Region,E2021-425,11. Garbage - 60000-040,Garbage,60000-040
+10/14/2021,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2021-426,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+10/16/2021,Home,Obligation,8000.0,Pontevedra,Capiz,Western Visayas,E2021-427,5. Home - 694835,Home,694835
+10/16/2021,Home,Optional,100.0,Quezon City,Metro Manila,National Capital Region,E2021-428,5. Home - 694835,Home,694835
+10/16/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-429,7. Phone/Internet - 65009,Phone/Internet,65009
+10/17/2021,Grocery,Survival,409.75,Quezon City,Metro Manila,National Capital Region,E2021-430,4. Grocery - 694835,Grocery,694835
+10/17/2021,Transportation,Survival,55.0,Quezon City,Metro Manila,National Capital Region,E2021-431,2. Transportation - 66501,Transportation,66501
+10/18/2021,Food/Drinks,Survival,99.0,Quezon City,Metro Manila,National Capital Region,E2021-432,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+10/18/2021,Phone/Internet,Optional,99.0,Quezon City,Metro Manila,National Capital Region,E2021-433,7. Phone/Internet - 65009,Phone/Internet,65009
+10/19/2021,Electricity/Water,Obligation,527.0,Quezon City,Metro Manila,National Capital Region,E2021-434,6. Electricity/Water - 65009,Electricity/Water,65009
+10/19/2021,Grocery,Survival,344.53,Quezon City,Metro Manila,National Capital Region,E2021-435,4. Grocery - 694835,Grocery,694835
+10/19/2021,Transportation,Survival,55.0,Quezon City,Metro Manila,National Capital Region,E2021-436,2. Transportation - 66501,Transportation,66501
+10/21/2021,Food/Drinks,Optional,3.0,Quezon City,Metro Manila,National Capital Region,E2021-437,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+10/22/2021,Food/Drinks,Survival,160.0,Quezon City,Metro Manila,National Capital Region,E2021-438,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+10/22/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-439,7. Phone/Internet - 65009,Phone/Internet,65009
+10/24/2021,Eating/Going Out,Optional,255.0,Quezon City,Metro Manila,National Capital Region,E2021-440,3. Eating/Going Out - 66503,Eating/Going Out,66503
+10/25/2021,Food/Drinks,Survival,136.0,Quezon City,Metro Manila,National Capital Region,E2021-441,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+10/26/2021,Grocery,Survival,416.0,Quezon City,Metro Manila,National Capital Region,E2021-442,4. Grocery - 694835,Grocery,694835
+10/29/2021,Debt repayment,Obligation,1150.0,Quezon City,Metro Manila,National Capital Region,E2021-443,9. Debt repayment - 60000-020,Debt repayment,60000-020
+10/29/2021,Apartment,Obligation,1000.0,Quezon City,Metro Manila,National Capital Region,E2021-444,16. Apartment - 694835,Apartment,694835
+10/29/2021,Phone/Internet,Optional,99.0,Quezon City,Metro Manila,National Capital Region,E2021-445,7. Phone/Internet - 65009,Phone/Internet,65009
+10/29/2021,Food/Drinks,Survival,55.0,Quezon City,Metro Manila,National Capital Region,E2021-446,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+10/30/2021,Debt repayment,Obligation,1670.0,Makati City,Metro Manila,National Capital Region,E2021-447,9. Debt repayment - 60000-020,Debt repayment,60000-020
+10/30/2021,Debt repayment,Obligation,1130.0,Quezon City,Metro Manila,National Capital Region,E2021-448,9. Debt repayment - 60000-020,Debt repayment,60000-020
+10/30/2021,Bank fees,Unexpected,300.0,Quezon City,Metro Manila,National Capital Region,E2021-449,17. Bank fees - 65009,Bank fees,65009
+10/30/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-450,7. Phone/Internet - 65009,Phone/Internet,65009
+10/30/2021,Food/Drinks,Optional,24.0,Quezon City,Metro Manila,National Capital Region,E2021-451,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+10/30/2021,Debt repayment,Obligation,6.62,Quezon City,Metro Manila,National Capital Region,E2021-452,9. Debt repayment - 60000-020,Debt repayment,60000-020
+11/2/2021,Grocery,Survival,447.4,Quezon City,Metro Manila,National Capital Region,E2021-453,4. Grocery - 694835,Grocery,694835
+11/2/2021,Hair Cut,Optional,70.0,Quezon City,Metro Manila,National Capital Region,E2021-454,10. Hair Cut - 60000-030,Hair Cut,60000-030
+11/2/2021,Transportation,Survival,55.0,Quezon City,Metro Manila,National Capital Region,E2021-455,2. Transportation - 66501,Transportation,66501
+11/3/2021,Electricity/Water,Obligation,130.59,Quezon City,Metro Manila,National Capital Region,E2021-456,6. Electricity/Water - 65009,Electricity/Water,65009
+11/4/2021,Phone/Internet,Optional,99.0,Quezon City,Metro Manila,National Capital Region,E2021-457,7. Phone/Internet - 65009,Phone/Internet,65009
+11/5/2021,Food/Drinks,Survival,60.0,Quezon City,Metro Manila,National Capital Region,E2021-458,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+11/6/2021,Home,Obligation,2000.0,Pontevedra,Capiz,Western Visayas,E2021-459,5. Home - 694835,Home,694835
+11/6/2021,Home,Obligation,200.0,Pontevedra,Capiz,Western Visayas,E2021-460,5. Home - 694835,Home,694835
+11/6/2021,Food/Drinks,Survival,46.0,Quezon City,Metro Manila,National Capital Region,E2021-461,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+11/7/2021,Grocery,Survival,573.75,Quezon City,Metro Manila,National Capital Region,E2021-462,4. Grocery - 694835,Grocery,694835
+11/7/2021,Transportation,Survival,20.0,Quezon City,Metro Manila,National Capital Region,E2021-463,2. Transportation - 66501,Transportation,66501
+11/9/2021,Grocery,Survival,300.0,Quezon City,Metro Manila,National Capital Region,E2021-464,4. Grocery - 694835,Grocery,694835
+11/9/2021,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2021-465,2. Transportation - 66501,Transportation,66501
+11/11/2021,Clothing/Shoes/Personal Items,Optional,4000.0,Quezon City,Metro Manila,National Capital Region,E2021-466,8. Clothing/Shoes/Personal Items - 60000-010,Clothing/Shoes/Personal Items,60000-010
+11/13/2021,Debt repayment,Obligation,1670.0,Makati City,Metro Manila,National Capital Region,E2021-467,9. Debt repayment - 60000-020,Debt repayment,60000-020
+11/13/2021,Pension Fund,Obligation,1300.0,Makati City,Metro Manila,National Capital Region,E2021-468,18. Pension Fund - 63502,Pension Fund,63502
+11/14/2021,Food/Drinks,Survival,270.0,Quezon City,Metro Manila,National Capital Region,E2021-469,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+11/14/2021,Transportation,Survival,55.0,Quezon City,Metro Manila,National Capital Region,E2021-470,2. Transportation - 66501,Transportation,66501
+11/16/2021,Grocery,Survival,360.65,Quezon City,Metro Manila,National Capital Region,E2021-471,4. Grocery - 694835,Grocery,694835
+11/16/2021,Transportation,Survival,55.0,Quezon City,Metro Manila,National Capital Region,E2021-472,2. Transportation - 66501,Transportation,66501
+11/17/2021,Healthcare,Survival,2499.0,Quezon City,Metro Manila,National Capital Region,E2021-473,19. Healthcare - 63502,Healthcare,63502
+11/17/2021,Magazines/Newspapers/Books,Optional,190.0,Quezon City,Metro Manila,National Capital Region,E2021-474,15. Magazines/Newspapers/Books - 60000-080,Magazines/Newspapers/Books,60000-080
+11/17/2021,Transportation,Survival,65.0,Quezon City,Metro Manila,National Capital Region,E2021-475,2. Transportation - 66501,Transportation,66501
+11/18/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-476,7. Phone/Internet - 65009,Phone/Internet,65009
+11/19/2021,Grocery,Survival,512.1,Quezon City,Metro Manila,National Capital Region,E2021-477,4. Grocery - 694835,Grocery,694835
+11/19/2021,Others,Optional,31.48,Quezon City,Metro Manila,National Capital Region,E2021-478,14. Others - 60000-070,Others,60000-070
+11/19/2021,Transportation,Survival,20.0,Quezon City,Metro Manila,National Capital Region,E2021-479,2. Transportation - 66501,Transportation,66501
+11/20/2021,Debt repayment,Obligation,3.35,Quezon City,Metro Manila,National Capital Region,E2021-480,9. Debt repayment - 60000-020,Debt repayment,60000-020
+11/21/2021,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2021-481,5. Home - 694835,Home,694835
+11/22/2021,Home,Optional,500.0,Pontevedra,Capiz,Western Visayas,E2021-482,5. Home - 694835,Home,694835
+11/22/2021,Food/Drinks,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2021-483,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+11/24/2021,Grocery,Survival,335.68,Quezon City,Metro Manila,National Capital Region,E2021-484,4. Grocery - 694835,Grocery,694835
+11/24/2021,Transportation,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2021-485,2. Transportation - 66501,Transportation,66501
+11/26/2021,Others,Optional,725.0,Quezon City,Metro Manila,National Capital Region,E2021-486,14. Others - 60000-070,Others,60000-070
+11/27/2021,Apartment,Obligation,1000.0,Quezon City,Metro Manila,National Capital Region,E2021-487,16. Apartment - 694835,Apartment,694835
+11/27/2021,Electricity/Water,Obligation,390.0,Quezon City,Metro Manila,National Capital Region,E2021-488,6. Electricity/Water - 65009,Electricity/Water,65009
+11/28/2021,Debt repayment,Obligation,2300.0,Quezon City,Metro Manila,National Capital Region,E2021-489,9. Debt repayment - 60000-020,Debt repayment,60000-020
+11/28/2021,Grocery,Survival,367.43,Quezon City,Metro Manila,National Capital Region,E2021-490,4. Grocery - 694835,Grocery,694835
+11/29/2021,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2021-491,5. Home - 694835,Home,694835
+11/29/2021,Debt repayment,Obligation,1670.0,Makati City,Metro Manila,National Capital Region,E2021-492,9. Debt repayment - 60000-020,Debt repayment,60000-020
+11/29/2021,Grocery,Survival,629.1,Quezon City,Metro Manila,National Capital Region,E2021-493,4. Grocery - 694835,Grocery,694835
+11/29/2021,Transportation,Survival,110.0,Quezon City,Metro Manila,National Capital Region,E2021-494,2. Transportation - 66501,Transportation,66501
+11/29/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-495,7. Phone/Internet - 65009,Phone/Internet,65009
+11/29/2021,Transportation,Survival,55.0,Quezon City,Metro Manila,National Capital Region,E2021-496,2. Transportation - 66501,Transportation,66501
+11/30/2021,Food/Drinks,Optional,137.0,Quezon City,Metro Manila,National Capital Region,E2021-497,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+12/2/2021,Garbage,Obligation,10.0,Quezon City,Metro Manila,National Capital Region,E2021-498,11. Garbage - 60000-040,Garbage,60000-040
+12/3/2021,Food/Drinks,Survival,130.0,Quezon City,Metro Manila,National Capital Region,E2021-499,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+12/4/2021,Debt repayment,Obligation,72.5,Quezon City,Metro Manila,National Capital Region,E2021-500,9. Debt repayment - 60000-020,Debt repayment,60000-020
+12/5/2021,Home,Obligation,3500.0,Pontevedra,Capiz,Western Visayas,E2021-501,5. Home - 694835,Home,694835
+12/5/2021,Food/Drinks,Survival,148.0,Quezon City,Metro Manila,National Capital Region,E2021-502,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+12/5/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-503,7. Phone/Internet - 65009,Phone/Internet,65009
+12/7/2021,Grocery,Survival,600.96,Quezon City,Metro Manila,National Capital Region,E2021-504,4. Grocery - 694835,Grocery,694835
+12/7/2021,Home,Obligation,300.0,Pontevedra,Capiz,Western Visayas,E2021-505,5. Home - 694835,Home,694835
+12/7/2021,Transportation,Survival,55.0,Quezon City,Metro Manila,National Capital Region,E2021-506,2. Transportation - 66501,Transportation,66501
+12/9/2021,Food/Drinks,Survival,70.0,Quezon City,Metro Manila,National Capital Region,E2021-507,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+12/9/2021,Garbage,Obligation,10.0,Quezon City,Metro Manila,National Capital Region,E2021-508,11. Garbage - 60000-040,Garbage,60000-040
+12/10/2021,Grocery,Survival,344.35,Quezon City,Metro Manila,National Capital Region,E2021-509,4. Grocery - 694835,Grocery,694835
+12/10/2021,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2021-510,2. Transportation - 66501,Transportation,66501
+12/11/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-511,7. Phone/Internet - 65009,Phone/Internet,65009
+12/13/2021,Clothing/Shoes/Personal Items,Optional,1000.0,Quezon City,Metro Manila,National Capital Region,E2021-512,8. Clothing/Shoes/Personal Items - 60000-010,Clothing/Shoes/Personal Items,60000-010
+12/14/2021,Home,Obligation,5500.0,Pontevedra,Capiz,Western Visayas,E2021-513,5. Home - 694835,Home,694835
+12/14/2021,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2021-514,5. Home - 694835,Home,694835
+12/14/2021,Debt repayment,Obligation,2284.67,Quezon City,Metro Manila,National Capital Region,E2021-515,9. Debt repayment - 60000-020,Debt repayment,60000-020
+12/14/2021,Debt repayment,Obligation,1500.0,Makati City,Metro Manila,National Capital Region,E2021-516,9. Debt repayment - 60000-020,Debt repayment,60000-020
+12/14/2021,Pension Fund,Obligation,1300.0,Makati City,Metro Manila,National Capital Region,E2021-517,18. Pension Fund - 63502,Pension Fund,63502
+12/14/2021,Debt repayment,Obligation,1150.0,Quezon City,Metro Manila,National Capital Region,E2021-518,9. Debt repayment - 60000-020,Debt repayment,60000-020
+12/14/2021,Others,Optional,461.5,Quezon City,Metro Manila,National Capital Region,E2021-519,14. Others - 60000-070,Others,60000-070
+12/14/2021,Grocery,Survival,270.51,Quezon City,Metro Manila,National Capital Region,E2021-520,4. Grocery - 694835,Grocery,694835
+12/14/2021,Transportation,Survival,55.0,Quezon City,Metro Manila,National Capital Region,E2021-521,2. Transportation - 66501,Transportation,66501
+12/15/2021,Transportation,Optional,470.0,Manila City,Metro Manila,National Capital Region,E2021-522,2. Transportation - 66501,Transportation,66501
+12/15/2021,Electricity/Water,Obligation,450.0,Quezon City,Metro Manila,National Capital Region,E2021-523,6. Electricity/Water - 65009,Electricity/Water,65009
+12/15/2021,Others,Optional,250.0,Quezon City,Metro Manila,National Capital Region,E2021-524,14. Others - 60000-070,Others,60000-070
+12/15/2021,Others,Optional,250.0,Jamindan,Capiz,Western Visayas,E2021-525,14. Others - 60000-070,Others,60000-070
+12/15/2021,Food/Drinks,Survival,135.0,Manila City,Metro Manila,National Capital Region,E2021-526,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+12/15/2021,Home,Optional,100.0,Quezon City,Metro Manila,National Capital Region,E2021-527,5. Home - 694835,Home,694835
+12/15/2021,Bank fees,Obligation,26.0,Quezon City,Metro Manila,National Capital Region,E2021-528,17. Bank fees - 65009,Bank fees,65009
+12/15/2021,Bank fees,Optional,15.0,Quezon City,Metro Manila,National Capital Region,E2021-529,17. Bank fees - 65009,Bank fees,65009
+12/17/2021,Food/Drinks,Survival,40.0,Quezon City,Metro Manila,National Capital Region,E2021-530,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+12/18/2021,Grocery,Survival,562.25,Quezon City,Metro Manila,National Capital Region,E2021-531,4. Grocery - 694835,Grocery,694835
+12/18/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-532,7. Phone/Internet - 65009,Phone/Internet,65009
+12/18/2021,Personal care items (drugstore),Survival,42.5,Quezon City,Metro Manila,National Capital Region,E2021-533,12. Personal care items (drugstore) - 60000-050,Personal care items (drugstore),60000-050
+12/18/2021,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2021-534,2. Transportation - 66501,Transportation,66501
+12/20/2021,Others,Optional,286.0,Quezon City,Metro Manila,National Capital Region,E2021-535,14. Others - 60000-070,Others,60000-070
+12/20/2021,Debt repayment,Obligation,10.01,Quezon City,Metro Manila,National Capital Region,E2021-536,9. Debt repayment - 60000-020,Debt repayment,60000-020
+12/21/2021,Grocery,Survival,538.25,Quezon City,Metro Manila,National Capital Region,E2021-537,4. Grocery - 694835,Grocery,694835
+12/21/2021,Transportation,Survival,35.0,Quezon City,Metro Manila,National Capital Region,E2021-538,2. Transportation - 66501,Transportation,66501
+12/22/2021,Health Insurance,Optional,125.0,Quezon City,Metro Manila,National Capital Region,E2021-539,20. Health Insurance - 63502,Health Insurance,63502
+12/22/2021,Others,Optional,50.0,Quezon City,Metro Manila,National Capital Region,E2021-540,14. Others - 60000-070,Others,60000-070
+12/26/2021,Phone/Internet,Optional,90.0,Quezon City,Metro Manila,National Capital Region,E2021-541,7. Phone/Internet - 65009,Phone/Internet,65009
+12/27/2021,Apartment,Obligation,3000.0,Quezon City,Metro Manila,National Capital Region,E2021-542,16. Apartment - 694835,Apartment,694835
+12/27/2021,Eating/Going Out,Optional,194.0,Quezon City,Metro Manila,National Capital Region,E2021-543,3. Eating/Going Out - 66503,Eating/Going Out,66503
+12/27/2021,Transportation,Survival,55.0,Quezon City,Metro Manila,National Capital Region,E2021-544,2. Transportation - 66501,Transportation,66501
+12/28/2021,Grocery,Survival,4985.05,Roxas City,Capiz,Western Visayas,E2021-545,4. Grocery - 694835,Grocery,694835
+12/28/2021,Home,Obligation,3810.0,Roxas City,Capiz,Western Visayas,E2021-546,5. Home - 694835,Home,694835
+12/28/2021,Transportation,Survival,694.0,Quezon City,Metro Manila,National Capital Region,E2021-547,2. Transportation - 66501,Transportation,66501
+12/29/2021,Debt repayment,Obligation,3600.0,Pontevedra,Capiz,Western Visayas,E2022-1,9. Debt repayment - 60000-020,Debt repayment,60000-020
+12/29/2021,Bank fees,Obligation,10.0,Pontevedra,Capiz,Western Visayas,E2022-2,17. Bank fees - 65009,Bank fees,65009
+12/30/2021,Home,Optional,3500.0,Pontevedra,Capiz,Western Visayas,E2022-3,5. Home - 694835,Home,694835
+12/30/2021,Phone/Internet,Optional,199.0,Pontevedra,Capiz,Western Visayas,E2022-4,7. Phone/Internet - 65009,Phone/Internet,65009
+1/5/2022,Phone/Internet,Optional,99.0,Pontevedra,Capiz,Western Visayas,E2022-5,7. Phone/Internet - 65009,Phone/Internet,65009
+1/5/2022,Phone/Internet,Optional,1337.78,Pontevedra,Capiz,Western Visayas,E2022-6,7. Phone/Internet - 65009,Phone/Internet,65009
+1/5/2022,Debt repayment,Obligation,209.75,Pontevedra,Capiz,Western Visayas,E2022-7,9. Debt repayment - 60000-020,Debt repayment,60000-020
+1/5/2022,Eating/Going Out,Optional,753.0,President Roxas,Capiz,Western Visayas,E2022-8,3. Eating/Going Out - 66503,Eating/Going Out,66503
+1/7/2022,Home,Obligation,200.0,Pontevedra,Capiz,Western Visayas,E2022-9,5. Home - 694835,Home,694835
+1/9/2022,Phone/Internet,Optional,199.0,Pontevedra,Capiz,Western Visayas,E2022-10,7. Phone/Internet - 65009,Phone/Internet,65009
+1/11/2022,Others,Optional,2000.0,Pontevedra,Capiz,Western Visayas,E2022-11,14. Others - 60000-070,Others,60000-070
+1/11/2022,Bank fees,Obligation,15.0,Pontevedra,Capiz,Western Visayas,E2022-12,17. Bank fees - 65009,Bank fees,65009
+1/15/2022,Debt repayment,Obligation,2350.0,Makati City,Metro Manila,National Capital Region,E2022-13,9. Debt repayment - 60000-020,Debt repayment,60000-020
+1/15/2022,Pension Fund,Obligation,1300.0,Makati City,Metro Manila,National Capital Region,E2022-14,18. Pension Fund - 63502,Pension Fund,63502
+1/15/2022,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2022-15,5. Home - 694835,Home,694835
+1/15/2022,Debt repayment,Obligation,389.25,Pontevedra,Capiz,Western Visayas,E2022-16,9. Debt repayment - 60000-020,Debt repayment,60000-020
+1/15/2022,Debt repayment,Obligation,2284.67,Pontevedra,Capiz,Western Visayas,E2022-17,9. Debt repayment - 60000-020,Debt repayment,60000-020
+1/15/2022,Bank fees,Optional,10.0,Pontevedra,Capiz,Western Visayas,E2022-18,17. Bank fees - 65009,Bank fees,65009
+1/16/2022,Phone/Internet,Optional,199.0,Pontevedra,Capiz,Western Visayas,E2022-19,7. Phone/Internet - 65009,Phone/Internet,65009
+1/17/2022,Bank fees,Obligation,25.0,Pontevedra,Capiz,Western Visayas,E2022-20,17. Bank fees - 65009,Bank fees,65009
+1/19/2022,Health Insurance,Obligation,900.0,Makati City,Metro Manila,National Capital Region,E2022-21,20. Health Insurance - 63502,Health Insurance,63502
+1/20/2022,Debt repayment,Obligation,16.22,Pontevedra,Capiz,Western Visayas,E2022-22,9. Debt repayment - 60000-020,Debt repayment,60000-020
+1/23/2022,Phone/Internet,Optional,199.0,Pontevedra,Capiz,Western Visayas,E2022-23,7. Phone/Internet - 65009,Phone/Internet,65009
+1/23/2022,Apartment,Obligation,1000.0,Quezon City,Metro Manila,National Capital Region,E2022-24,16. Apartment - 694835,Apartment,694835
+1/25/2022,Transportation,Survival,310.0,Roxas City,Capiz,Western Visayas,E2022-25,2. Transportation - 66501,Transportation,66501
+1/25/2022,Grocery,Survival,1070.5,Roxas City,Capiz,Western Visayas,E2022-26,4. Grocery - 694835,Grocery,694835
+1/25/2022,Electricity/Water,Obligation,1000.0,Pontevedra,Capiz,Western Visayas,E2022-27,6. Electricity/Water - 65009,Electricity/Water,65009
+1/25/2022,Phone/Internet,Optional,50.0,Roxas City,Capiz,Western Visayas,E2022-28,7. Phone/Internet - 65009,Phone/Internet,65009
+1/29/2022,Bank fees,Optional,10.0,Pontevedra,Capiz,Western Visayas,E2022-29,17. Bank fees - 65009,Bank fees,65009
+1/29/2022,Debt repayment,Obligation,3480.0,Pontevedra,Capiz,Western Visayas,E2022-30,9. Debt repayment - 60000-020,Debt repayment,60000-020
+1/29/2022,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2022-31,5. Home - 694835,Home,694835
+1/29/2022,Others,Unexpected,250.0,Quezon City,Metro Manila,National Capital Region,E2022-32,14. Others - 60000-070,Others,60000-070
+1/30/2022,Phone/Internet,Optional,199.0,Pontevedra,Capiz,Western Visayas,E2022-33,7. Phone/Internet - 65009,Phone/Internet,65009
+2/6/2022,Phone/Internet,Optional,199.0,Pontevedra,Capiz,Western Visayas,E2022-34,7. Phone/Internet - 65009,Phone/Internet,65009
+2/6/2022,Bank fees,Optional,15.0,Pontevedra,Capiz,Western Visayas,E2022-35,17. Bank fees - 65009,Bank fees,65009
+2/6/2022,Home,Optional,2000.0,Pontevedra,Capiz,Western Visayas,E2022-36,5. Home - 694835,Home,694835
+2/7/2022,Home,Obligation,300.0,Pontevedra,Capiz,Western Visayas,E2022-37,5. Home - 694835,Home,694835
+2/12/2022,Bank fees,Optional,15.0,Pontevedra,Capiz,Western Visayas,E2022-38,17. Bank fees - 65009,Bank fees,65009
+2/13/2022,Home,Obligation,4500.0,Pontevedra,Capiz,Western Visayas,E2022-39,5. Home - 694835,Home,694835
+2/14/2022,Debt repayment,Obligation,2284.67,Pontevedra,Capiz,Western Visayas,E2022-40,9. Debt repayment - 60000-020,Debt repayment,60000-020
+2/14/2022,Debt repayment,Obligation,2350.0,Makati City,Metro Manila,National Capital Region,E2022-41,9. Debt repayment - 60000-020,Debt repayment,60000-020
+2/14/2022,Apartment,Obligation,1000.0,Quezon City,Metro Manila,National Capital Region,E2022-42,16. Apartment - 694835,Apartment,694835
+2/14/2022,Pension Fund,Obligation,1300.0,Makati City,Metro Manila,National Capital Region,E2022-43,18. Pension Fund - 63502,Pension Fund,63502
+2/14/2022,Bank fees,Optional,10.0,Pontevedra,Capiz,Western Visayas,E2022-44,17. Bank fees - 65009,Bank fees,65009
+2/17/2022,Phone/Internet,Optional,199.0,Pontevedra,Capiz,Western Visayas,E2022-45,7. Phone/Internet - 65009,Phone/Internet,65009
+2/17/2022,Home,Obligation,1000.0,Pontevedra,Capiz,Western Visayas,E2022-46,5. Home - 694835,Home,694835
+2/17/2022,Others,Unexpected,1000.0,Pontevedra,Capiz,Western Visayas,E2022-47,14. Others - 60000-070,Others,60000-070
+2/22/2022,Phone/Internet,Optional,199.0,Pontevedra,Capiz,Western Visayas,E2022-48,7. Phone/Internet - 65009,Phone/Internet,65009
+2/22/2022,Health Insurance,Optional,125.0,Pontevedra,Capiz,Western Visayas,E2022-49,20. Health Insurance - 63502,Health Insurance,63502
+2/23/2022,Home,Obligation,1000.0,Pontevedra,Capiz,Western Visayas,E2022-50,5. Home - 694835,Home,694835
+2/28/2022,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2022-51,5. Home - 694835,Home,694835
+2/28/2022,Others,Optional,800.0,Pontevedra,Capiz,Western Visayas,E2022-52,14. Others - 60000-070,Others,60000-070
+2/28/2022,Bank fees,Optional,15.0,Pontevedra,Capiz,Western Visayas,E2022-53,17. Bank fees - 65009,Bank fees,65009
+2/28/2022,Phone/Internet,Optional,1000.0,Pontevedra,Capiz,Western Visayas,E2022-54,7. Phone/Internet - 65009,Phone/Internet,65009
+2/28/2022,Others,Optional,500.0,Pontevedra,Capiz,Western Visayas,E2022-55,14. Others - 60000-070,Others,60000-070
+3/1/2022,Debt repayment,Obligation,2350.0,Makati City,Metro Manila,National Capital Region,E2022-56,9. Debt repayment - 60000-020,Debt repayment,60000-020
+3/1/2022,Debt repayment,Obligation,1130.0,Pontevedra,Capiz,Western Visayas,E2022-57,9. Debt repayment - 60000-020,Debt repayment,60000-020
+3/1/2022,Bank fees,Optional,15.0,Pontevedra,Capiz,Western Visayas,E2022-58,17. Bank fees - 65009,Bank fees,65009
+3/1/2022,Hair Cut,Optional,200.0,Pontevedra,Capiz,Western Visayas,E2022-59,10. Hair Cut - 60000-030,Hair Cut,60000-030
+3/8/2022,Food/Drinks,Optional,1000.0,Pontevedra,Capiz,Western Visayas,E2022-60,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+3/8/2022,Bank fees,Optional,25.0,Pontevedra,Capiz,Western Visayas,E2022-61,17. Bank fees - 65009,Bank fees,65009
+3/10/2022,Home,Optional,215.0,Pontevedra,Capiz,Western Visayas,E2022-62,5. Home - 694835,Home,694835
+3/14/2022,Bank fees,Optional,40.0,Pontevedra,Capiz,Western Visayas,E2022-63,17. Bank fees - 65009,Bank fees,65009
+3/15/2022,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2022-64,5. Home - 694835,Home,694835
+3/15/2022,Debt repayment,Obligation,1700.0,Makati City,Metro Manila,National Capital Region,E2022-65,9. Debt repayment - 60000-020,Debt repayment,60000-020
+3/15/2022,Pension Fund,Obligation,1300.0,Pontevedra,Capiz,Western Visayas,E2022-66,18. Pension Fund - 63502,Pension Fund,63502
+3/15/2022,Debt repayment,Obligation,43.9,Pontevedra,Capiz,Western Visayas,E2022-67,9. Debt repayment - 60000-020,Debt repayment,60000-020
+3/15/2022,Eating/Going Out,Optional,3000.0,Pontevedra,Capiz,Western Visayas,E2022-68,3. Eating/Going Out - 66503,Eating/Going Out,66503
+3/22/2022,Home,Obligation,2500.0,Pontevedra,Capiz,Western Visayas,E2022-69,5. Home - 694835,Home,694835
+3/22/2022,Bank fees,Optional,15.0,Pontevedra,Capiz,Western Visayas,E2022-70,17. Bank fees - 65009,Bank fees,65009
+3/24/2022,Phone/Internet,Optional,20.0,Pontevedra,Capiz,Western Visayas,E2022-71,7. Phone/Internet - 65009,Phone/Internet,65009
+3/31/2022,Apartment,Obligation,1000.0,Quezon City,Metro Manila,National Capital Region,E2022-72,16. Apartment - 694835,Apartment,694835
+3/31/2022,Debt repayment,Obligation,2284.67,Pontevedra,Capiz,Western Visayas,E2022-73,9. Debt repayment - 60000-020,Debt repayment,60000-020
+3/31/2022,Home,Obligation,2000.0,Pontevedra,Capiz,Western Visayas,E2022-74,5. Home - 694835,Home,694835
+3/30/2022,Eating/Going Out,Optional,700.0,Roxas City,Capiz,Western Visayas,E2022-75,3. Eating/Going Out - 66503,Eating/Going Out,66503
+3/31/2022,Phone/Internet,Optional,199.0,Pontevedra,Capiz,Western Visayas,E2022-76,7. Phone/Internet - 65009,Phone/Internet,65009
+3/31/2022,Bank fees,Optional,10.0,Pontevedra,Capiz,Western Visayas,E2022-77,17. Bank fees - 65009,Bank fees,65009
+3/31/2022,Bank fees,Optional,10.0,Pontevedra,Capiz,Western Visayas,E2022-78,17. Bank fees - 65009,Bank fees,65009
+4/1/2022,Bank fees,Optional,25.0,Pontevedra,Capiz,Western Visayas,E2022-79,17. Bank fees - 65009,Bank fees,65009
+4/3/2022,Bank fees,Unexpected,525.0,Pontevedra,Capiz,Western Visayas,E2022-80,17. Bank fees - 65009,Bank fees,65009
+4/4/2022,Home,Obligation,2000.0,Pontevedra,Capiz,Western Visayas,E2022-81,5. Home - 694835,Home,694835
+4/6/2022,Phone/Internet,Optional,199.0,Pontevedra,Capiz,Western Visayas,E2022-82,7. Phone/Internet - 65009,Phone/Internet,65009
+4/8/2022,Phone/Internet,Optional,499.0,Pontevedra,Capiz,Western Visayas,E2022-83,7. Phone/Internet - 65009,Phone/Internet,65009
+4/10/2022,Home,Obligation,200.0,Pontevedra,Capiz,Western Visayas,E2022-84,5. Home - 694835,Home,694835
+4/15/2022,Debt repayment,Obligation,3150.0,Pontevedra,Capiz,Western Visayas,E2022-85,9. Debt repayment - 60000-020,Debt repayment,60000-020
+4/15/2022,Bank fees,Optional,45.0,Pontevedra,Capiz,Western Visayas,E2022-86,17. Bank fees - 65009,Bank fees,65009
+4/15/2022,Grocery,Survival,2264.75,Roxas City,Capiz,Western Visayas,E2022-87,4. Grocery - 694835,Grocery,694835
+4/15/2022,Phone/Internet,Optional,740.0,Makati City,Metro Manila,National Capital Region,E2022-88,7. Phone/Internet - 65009,Phone/Internet,65009
+4/15/2022,Pension Fund,Obligation,1300.0,Makati City,Metro Manila,National Capital Region,E2022-89,18. Pension Fund - 63502,Pension Fund,63502
+4/15/2022,Health Insurance,Obligation,900.0,Makati City,Metro Manila,National Capital Region,E2022-90,20. Health Insurance - 63502,Health Insurance,63502
+4/15/2022,Health Insurance,Obligation,125.0,Pontevedra,Capiz,Western Visayas,E2022-91,20. Health Insurance - 63502,Health Insurance,63502
+4/15/2022,Debt repayment,Obligation,1700.0,Makati City,Metro Manila,Western Visayas,E2022-92,9. Debt repayment - 60000-020,Debt repayment,60000-020
+4/19/2022,Phone/Internet,Unexpected,299.0,Pontevedra,Capiz,Western Visayas,E2022-93,7. Phone/Internet - 65009,Phone/Internet,65009
+4/26/2022,Food/Drinks,Optional,500.0,President Roxas,Capiz,Western Visayas,E2022-94,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+4/29/2022,Debt repayment,Obligation,2284.67,Pontevedra,Capiz,Western Visayas,E2022-95,9. Debt repayment - 60000-020,Debt repayment,60000-020
+4/30/2022,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2022-96,5. Home - 694835,Home,694835
+4/30/2022,Apartment,Obligation,1000.0,Quezon City,Metro Manila,National Capital Region,E2022-97,16. Apartment - 694835,Apartment,694835
+4/30/2022,Bank fees,Optional,15.0,Pontevedra,Capiz,Western Visayas,E2022-98,17. Bank fees - 65009,Bank fees,65009
+5/4/2022,Bank fees,Optional,18.0,Roxas City,Capiz,Western Visayas,E2022-99,17. Bank fees - 65009,Bank fees,65009
+5/10/2022,Home,Optional,1300.0,Pilar,Capiz,Western Visayas,E2022-100,5. Home - 694835,Home,694835
+5/11/2022,Home,Obligation,200.0,Pontevedra,Capiz,Western Visayas,E2022-101,5. Home - 694835,Home,694835
+5/12/2022,Healthcare,Unexpected,1000.0,Roxas City,Capiz,Western Visayas,E2022-102,19. Healthcare - 63502,Healthcare,63502
+5/13/2022,Phone/Internet,Optional,299.0,Pontevedra,Capiz,Western Visayas,E2022-103,7. Phone/Internet - 65009,Phone/Internet,65009
+5/15/2022,Debt repayment,Obligation,1700.0,Pontevedra,Capiz,Western Visayas,E2022-104,9. Debt repayment - 60000-020,Debt repayment,60000-020
+5/15/2022,Debt repayment,Obligation,3150.0,Pontevedra,Capiz,Western Visayas,E2022-105,9. Debt repayment - 60000-020,Debt repayment,60000-020
+5/15/2022,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2022-106,5. Home - 694835,Home,694835
+5/15/2022,Pension Fund,Obligation,1300.0,Makati City,Metro Manila,National Capital Region,E2022-107,18. Pension Fund - 63502,Pension Fund,63502
+5/18/2022,Eating/Going Out,Unexpected,1000.0,Pilar,Capiz,Western Visayas,E2022-108,3. Eating/Going Out - 66503,Eating/Going Out,66503
+5/19/2022,Phone/Internet,Optional,299.0,Pontevedra,Capiz,Western Visayas,E2022-109,7. Phone/Internet - 65009,Phone/Internet,65009
+5/20/2022,Phone/Internet,Optional,499.0,Pontevedra,Capiz,Western Visayas,E2022-110,7. Phone/Internet - 65009,Phone/Internet,65009
+5/31/2022,Electricity/Water,Obligation,1000.0,Pontevedra,Capiz,Western Visayas,E2022-111,6. Electricity/Water - 65009,Electricity/Water,65009
+5/31/2022,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2022-112,5. Home - 694835,Home,694835
+5/31/2022,Food/Drinks,Optional,500.0,Pontevedra,Capiz,Western Visayas,E2022-113,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+5/31/2022,Phone/Internet,Optional,100.0,Pontevedra,Capiz,Western Visayas,E2022-114,7. Phone/Internet - 65009,Phone/Internet,65009
+5/31/2022,Debt repayment,Obligation,2284.67,Pontevedra,Capiz,Western Visayas,E2022-115,9. Debt repayment - 60000-020,Debt repayment,60000-020
+5/31/2022,Apartment,Obligation,1000.0,Quezon City,Metro Manila,National Capital Region,E2022-116,16. Apartment - 694835,Apartment,694835
+5/31/2022,Debt repayment,Obligation,7225.01,Makati City,Metro Manila,National Capital Region,E2022-117,9. Debt repayment - 60000-020,Debt repayment,60000-020
+6/11/2022,Home,Optional,215.0,Pontevedra,Capiz,Western Visayas,E2022-117,5. Home - 694835,Home,694835
+6/15/2022,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2022-118,5. Home - 694835,Home,694835
+6/15/2022,Debt repayment,Obligation,3150.0,Pontevedra,Capiz,Western Visayas,E2022-119,9. Debt repayment - 60000-020,Debt repayment,60000-020
+6/15/2022,Health Insurance,Optional,125.0,Pontevedra,Capiz,Western Visayas,E2022-120,20. Health Insurance - 63502,Health Insurance,63502
+6/15/2022,Pension Fund,Obligation,1300.0,Pontevedra,Capiz,Western Visayas,E2022-121,18. Pension Fund - 63502,Pension Fund,63502
+6/15/2022,Phone/Internet,Optional,549.0,Pontevedra,Capiz,Western Visayas,E2022-122,7. Phone/Internet - 65009,Phone/Internet,65009
+6/23/2022,Home,Optional,2020.0,Pontevedra,Capiz,Western Visayas,E2022-123,5. Home - 694835,Home,694835
+6/28/2022,Phone/Internet,Optional,50.0,Roxas City,Capiz,Western Visayas,E2022-126,7. Phone/Internet - 65009,Phone/Internet,65009
+6/28/2022,Electricity/Water,Obligation,1500.0,Pontevedra,Capiz,Western Visayas,E2022-127,6. Electricity/Water - 65009,Electricity/Water,65009
+6/30/2022,Debt repayment,Obligation,2284.67,Pontevedra,Capiz,Western Visayas,E2022-124,9. Debt repayment - 60000-020,Debt repayment,60000-020
+6/30/2022,Bank fees,Optional,30.0,Pontevedra,Capiz,Western Visayas,E2022-125,17. Bank fees - 65009,Bank fees,65009
+6/30/2022,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2022-128,5. Home - 694835,Home,694835
+6/30/2022,Apartment,Obligation,1000.0,Quezon City,Metro Manila,National Capital Region,E2022-129,16. Apartment - 694835,Apartment,694835
+7/5/2022,Phone/Internet,Optional,66.0,Pontevedra,Capiz,Western Visayas,E2022-133,7. Phone/Internet - 65009,Phone/Internet,65009
+7/6/2022,Phone/Internet,Optional,50.0,President Roxas,Capiz,Western Visayas,E2022-130,7. Phone/Internet - 65009,Phone/Internet,65009
+7/6/2022,Food/Drinks,Optional,1100.0,Pontevedra,Capiz,Western Visayas,E2022-131,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/12/2022,Transportation,Survival,190.0,Roxas City,Capiz,Western Visayas,E2022-132,2. Transportation - 66501,Transportation,66501
+7/12/2022,Cable,Optional,300.0,Pontevedra,Capiz,Western Visayas,E2022-134,21. Cable - 65009,Cable,65009
+7/14/2022,Phone/Internet,Optional,179.0,Pontevedra,Capiz,Western Visayas,E2022-135,7. Phone/Internet - 65009,Phone/Internet,65009
+7/15/2022,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2022-136,5. Home - 694835,Home,694835
+7/15/2022,SSS,Obligation,1300.0,Makati City,Metro Manila,National Capital Region,E2022-137,22. SSS - 63502,SSS,63502
+7/15/2022,PhilHealth,Obligation,1200.0,Makati City,Metro Manila,National Capital Region,E2022-138,23. PhilHealth - 63502,PhilHealth,63502
+7/15/2022,Debt repayment,Obligation,2284.67,Pontevedra,Capiz,Western Visayas,E2022-139,9. Debt repayment - 60000-020,Debt repayment,60000-020
+7/15/2022,Debt repayment,Obligation,3149.14,Pontevedra,Capiz,Western Visayas,E2022-140,9. Debt repayment - 60000-020,Debt repayment,60000-020
+7/20/2022,Bank fees,Optional,10.0,Pontevedra,Capiz,Western Visayas,E2022-141,17. Bank fees - 65009,Bank fees,65009
+7/23/2022,Food/Drinks,Optional,2000.0,Pontevedra,Capiz,Western Visayas,E2022-142,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+7/25/2022,Electricity/Water,Obligation,1000.0,Pontevedra,Capiz,Western Visayas,E2022-143,6. Electricity/Water - 65009,Electricity/Water,65009
+7/25/2022,Grocery,Survival,1000.0,Pontevedra,Capiz,Western Visayas,E2022-144,4. Grocery - 694835,Grocery,694835
+7/29/2022,Bank fees,Optional,25.0,Pontevedra,Capiz,Western Visayas,E2022-145,17. Bank fees - 65009,Bank fees,65009
+7/29/2022,Credit Card Payment,Obligation,8124.25,Makati City,Metro Manila,National Capital Region,E2022-146,24. Credit Card Payment - 60000-010,Credit Card Payment,60000-010
+7/29/2022,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2022-147,5. Home - 694835,Home,694835
+7/29/2022,Apartment,Obligation,1000.0,Quezon City,Metro Manila,National Capital Region,E2022-148,16. Apartment - 694835,Apartment,694835
+8/1/2022,Food/Drinks,Optional,47.0,Pontevedra,Capiz,Western Visayas,E2022-149,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+8/2/2022,Bank fees,Optional,12.0,Pontevedra,Capiz,Western Visayas,E2022-150,17. Bank fees - 65009,Bank fees,65009
+8/4/2022,Bank fees,Optional,20.0,Pontevedra,Capiz,Western Visayas,E2022-151,17. Bank fees - 65009,Bank fees,65009
+8/15/2022,Revi Credit,Obligation,5000.0,Pontevedra,Capiz,Western Visayas,E2022-152,25. Revi Credit - 60000-090,Revi Credit,60000-090
+8/15/2022,Debt repayment,Obligation,3149.14,Pontevedra,Capiz,Western Visayas,E2022-140,9. Debt repayment - 60000-020,Debt repayment,60000-020
+8/15/2022,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2022-154,5. Home - 694835,Home,694835
+8/15/2022,Cable,Optional,200.0,Pontevedra,Capiz,Western Visayas,E2022-155,21. Cable - 65009,Cable,65009
+8/16/2022,Bank fees,Optional,10.0,Pontevedra,Capiz,Western Visayas,E2022-156,17. Bank fees - 65009,Bank fees,65009
+8/16/2022,Debt repayment,Obligation,3163.0,Makati City,Metro Manila,National Capital Region,E2022-157,9. Debt repayment - 60000-020,Debt repayment,60000-020
+8/16/2022,SSS,Obligation,1300.0,Makati City,Metro Manila,National Capital Region,E2022-158,22. SSS - 63502,SSS,63502
+8/16/2022,Debt repayment,Obligation,2284.67,Pontevedra,Capiz,Western Visayas,E2022-159,9. Debt repayment - 60000-020,Debt repayment,60000-020
+8/16/2022,Transportation,Survival,600.0,Roxas City,Capiz,Western Visayas,E2022-160,2. Transportation - 66501,Transportation,66501
+8/17/2022,Food/Drinks,Optional,200.0,Pontevedra,Capiz,Western Visayas,E2022-161,1. Food/Drink/Eating - 66503,Food/Drinks,66503
+8/23/2022,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2022-162,5. Home - 694835,Home,694835
+8/30/2022,Eating/Going Out,Optional,3000.0,Pilar,Capiz,Western Visayas,E2022-163,3. Eating/Going Out - 66503,Eating/Going Out,66503
+8/31/2022,Credit Card Payment,Obligation,1193.59,Pontevedra,Capiz,Western Visayas,E2022-164,24. Credit Card Payment - 60000-010,Credit Card Payment,60000-010
+8/31/2022,Credit Card Payment,Obligation,1863.0,Makati City,Metro Manila,National Capital Region,E2022-165,24. Credit Card Payment - 60000-010,Credit Card Payment,60000-010
+8/31/2022,Home,Obligation,3000.0,Pontevedra,Capiz,Western Visayas,E2022-166,5. Home - 694835,Home,694835
+8/31/2022,Apartment,Obligation,1000.0,Quezon City,Metro Manila,Western Visayas,E2022-167,16. Apartment - 694835,Apartment,694835
